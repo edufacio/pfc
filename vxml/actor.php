@@ -1,4 +1,7 @@
 <?php
+//Esto es una prueba
+
+
 
 //Consulta para sacar la informacion que necesitamos de la BD
 //$consulta = mysql_query("SELECT * FROM actor WHERE nombre= '" . $_REQUEST["nombre"] . "'");
