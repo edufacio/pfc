@@ -1,0 +1,1579 @@
+<html>
+<head>
+<title>Próximos Estrenos Cine España por fecha de lanzamiento - FilmAffinity</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="description" content="Arthur 3: La guerra de los mundos, El equipo tigre: La montaña de los mil dragones, El inocente, Medianoche en París, Sin identidad, Tournée  (On Tour), ¿Estás ahí?, Confucio, Piratas del Caribe: En mareas misteriosas (Piratas del Caribe 4), Una mujer, una pistola y una tienda de fideos chinos, ..." />
+<meta name="keywords" content="Arthur 3: La guerra de los mundos, El equipo tigre: La montaña de los mil dragones, El inocente, Medianoche en París, Sin identidad, Tournée  (On Tour), ¿Estás ahí?, Confucio, Piratas del Caribe: En mareas misteriosas (Piratas del Caribe 4), Una mujer, una pistola y una tienda de fideos chinos, ..." />
+<link href="/style/main.css" rel="stylesheet" type="text/css" />
+<link href="/style/history.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/local_es.js"></script>
+<script language="JavaScript" type="text/javascript">
+</script>
+<style>
+.ot{width:1002px;}
+</style>
+
+</head>
+<body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0  onload="ol()">
+<table class="ot" border="0" cellpadding="0" cellspacing="0" >
+	<tr>
+		<td>
+<table width="100%" border="0"  cellpadding="0" cellspacing="0"><tr><td align="center">
+<script language="javascript" type="text/javascript">
+var agm_site="adconion.filmaffinity.es";
+var agm_sz="980x90,728x90";
+var agm_zona="estrenos";
+var agm_resolw=window.screen.availWidth;
+var agm_resolh=window.screen.availHeight;
+agm_timestamp = window.agm_timestamp || Math.floor(Math.random()*1E16);
+if(typeof(agm_interstitial)=="undefined"){var agm_interstitial="dcopt=ist;"}else{var agm_interstitial=""}
+if(typeof(agm_tilecat)=="undefined"){var agm_tilecat=1}else{agm_tilecat++}
+document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://ad.es.doubleclick.net/adj/'+agm_site+'/'+agm_zona+';resw='+agm_resolw+';resh='+agm_resolh+';'+agm_interstitial+'tile='+agm_tilecat+';sz='+agm_sz+';ord='+agm_timestamp+'?"><\/scr'+'ipt>');
+</script>
+</td></tr></table><table style="border-top: 1px solid #2F5983" bgcolor="#FFFFFF" width="100%" border="0"  cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+
+    <td width="100"><a href="/es/main.html"><img src="http://www.filmaffinity.com/images/final_logo_stars.gif"  alt="Home page" border="0"></a></td>
+    <td align="center" valign="middle"><a href="http://www.facebook.com/photo.php?fbid=10150117932759716&set=a.215526984715.133565.9086994715&comments" target="_BLANK"><img src="/images/top_mobile_promo_71.jpg" /></a>
+</td>
+        <td width="80" align="center" valign="middle"><a href="/en/main.html"><img src="http://www.filmaffinity.com/images/english.gif" alt="English language" border="0"></a></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+<table bgcolor="#003366" width="100%" border="0" cellpadding="1" cellspacing="2">
+  <tr>
+    <td  width="100%">
+      <span style="color: #FFCC00">Tu página de cine</span>
+    </td>
+       <td nowrap><a href="/es/imlost.php" class="lnktop">Pasos</a> <span style="color: #FFFFFF">| </span></td>
+    <td nowrap><a href="/es/tours.php" class="lnktop">Tours</a> <span style="color: #FFFFFF">| </span></td>
+
+    <td nowrap><a href="/es/main.html" class="lnktop">Home</a> <span style="color: #FFFFFF">| </span></td>
+    <td nowrap><a style="background-color:#FFCC00" href="http://www.filmaffinity.com/en/main.html" class="lnktop">ENGLISH</a></td>
+ </tr>
+</table>
+ </td>
+    </tr>
+    <tr>
+
+        <td style="padding-top: 1px;">
+            <div style="background-image: url('/images/gif/degradado4.jpg'); text-align:left; padding: 1px 0px 4px 0px; font-size:9px; color: #fff; position: relative;">
+                <span style="margin-right: 5px; padding: 2px; font-weight:bold; color:#FC0; text-decoration: none;">PREMIOS:</span>
+				<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=cannes&year=2011&cat_id=golden_palm">Festival de Cannes 2011</a></span>
+				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=tribeca&year=2011">Tribeca</a></span>
+				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=berlin&year=2011">Berlín</a></span>
+
+				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=sundance&year=2011">Sundance</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=academy_awards&year=2011">Oscars 2011</a></span>
+ 				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=cesar&year=2011">Cesar</a></span>
+                |<span style="margin: 0px 5px;"><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=bafta&year=2011">BAFTA</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=goya&year=2011">Goya</a></span>
+
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=spirit&year=2011">Spirit</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=razzie&year=2011">Razzie</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=goldenglobes&year=2011">Globos de Oro</a></span>
+                |<span style="margin: 0px 5px;"><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/oscar_data.php">OSCARS</a></span>
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+		</td>
+	</tr>
+</table>
+
+
+<table class="ot"  border="0" cellpadding="0" cellspacing="0" >
+ <tr>
+  <td valign="top" width="150" >
+
+  	
+<table width="150" border="0" cellpadding="0" cellspacing="2"><tr><td><table  width="100%"  border="0" cellpadding="2" cellspacing="0">
+<form action="/es/search.php" method="get">
+	<tr>
+		<td class="menutitle">Buscador de películas</td>
+	</tr>
+	<tr>
+    <td class="menuitem" align="center"><input type="text" name="stext" style="width: 140px" size="20" value=""></td>
+	</tr>
+	<tr>
+
+   	<td class="menuitem" align="center">
+   		<select  name="stype" style="width: 90px">
+   		<option value="all">Todas</option>
+      <option value="title">Título</option>
+      <option value="director">Director</option>
+      <option value="cast">Reparto</option>
+      </select><input type="submit" value="Buscar" style="width: 50px">
+
+    </td>
+  </tr>
+	<tr>
+    <td class="menuitem">&nbsp;<a class="menulnk" href="/es/advsearch.php">Búsqueda avanzada</a></td>
+	</tr>
+</form>
+</table>
+</td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>USUARIOS</i></td><tr><td class="menu2"><a href="/es/tours.php">Votar los tours</a></td></tr><tr><td class="menu2"><a href="/es/login.php">Entrada usuarios</a></td></tr><tr><td class="menu2"><a href="/es/register.php">Reg&iacute;strate para poder votar pel&iacute;culas</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>ESPAÑA</i></td><tr><td class="menu"><a href="/es/cat_new_th_es.html">Películas en cartelera</a></td></tr><tr><td class="menu"><a href="/es/cityTheaters.php">Cines Espa&ntilde;a</a></td></tr><tr><td class="menu"><a href="/es/rdcat.php?id=upc_th_es">Próximos estrenos</a></td></tr><tr><td class="menu"><a href="/es/cat_new_sa_es.html">Estrenos DVD venta</a></td></tr><tr><td class="menu"><a href="/es/rdcat.php?id=upc_sa_es">Próximos DVD venta</a></td></tr><tr><td class="menu"><a href="/es/cat_new_fin_es.html">Por fin en DVD</a></td></tr><tr><td class="menu"><a href="/es/cat_new_re_es.html">Ya para alquilar</a></td></tr><tr><td class="menu"><a href="/es/rdcat.php?id=upc_re_es">Próximamente alquiler</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>USA - GB - FR</i></td><tr><td class="menu"><a href="/es/cat_new_th_us.html">Estrenos USA</a></td></tr><tr><td class="menu"><a href="/es/cat_ESTR_UK.html">Estrenos Reino Unido</a></td></tr><tr><td class="menu"><a href="/es/cat_estr_fr.html">Estrenos Francia</a></td></tr><tr><td class="menu"><a href="/es/cat_DVD_VID_US.html">DVD/Video USA</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>SECCIONES</i></td><tr><td class="menu"><a href="/es/boxoffice.php">Taquilla</a></td></tr><tr><td class="menu"><a href="/es/trailers.php">Trailers</a></td></tr><tr><td class="menu"><a href="/es/latestevideos.php">Últimos trailers en FA</a></td></tr><tr><td class="menu"><a href="/es/latestreviews.php">Últimas críticas en FA</a></td></tr><tr><td class="menu"><a href="/es/allfilms.html">Todas las películas (A-Z)</a></td></tr><tr><td class="menu"><a href="/es/topics.php">Topics: films por temas</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>TOPs</i></td><tr><td class="menu"><a href="/es/topgen.php">TOP FILMAFFINITY</a></td></tr><tr><td class="menu"><a href="/es/topcat_new_th_es.html">TOP Estrenos</a></td></tr><tr><td class="menu"><a href="/es/topcat_new_sa_es.html">TOP estrenos DVD</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>PREMIOS</i></td><tr><td class="menu"><a href="/es/awards.php?award_id=academy_awards&year=2011">Oscars 2011</a></td></tr><tr><td class="menu"><a href="/es/awards.php?award_id=goldenglobes&year=2011">Globos de Oro 2011</a></td></tr><tr><td class="menu"><a href="/es/awards.php?award_id=sundance&year=2011">Sundance 2011</a></td></tr><tr><td class="menu"><a href="/es/awards.php?award_id=goya&amp;year=2010">Goya 2011</a></td></tr><tr><td class="menu"><a href="/es/oscar_data.php">Todos los Oscars</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>INFORMACIÓN</i></td><tr><td class="menu"><a href="/es/imlost.php">Pasos a seguir</a></td></tr><tr><td class="menu"><a href="/es/lists_explanation.php">Sobre las listas</a></td></tr><tr><td class="menu"><a href="/es/listsrank.php">Ranking de listas</a></td></tr><tr><td class="menu"><a href="/es/new_stuff.php">Últimas mejoras FA</a></td></tr><tr><td class="menu"><a href="/es/meetus.php">Quiénes somos</a></td></tr><tr><td class="menu"><a href="/es/advertise.php">Publicidad</a></td></tr><tr><td class="menu"><a href="/es/contact_us.php">Contacto</a></td></tr></table></td></tr></table>
+
+  </td>
+  <td  valign="top" bgcolor="#ffffff">
+   <table width="100%" border="0" cellpadding="3" cellspacing="0">
+  	<tr>
+     <td align="center" width="100%">
+<div style="margin-bottom: 4; padding:1; text-align: center;"><span style="color:#004488; font-size:24; font-style: italic; font-weight: bold">PRÓXIMOS ESTRENOS CINE ESPAÑA</span></div><div style="padding:1; text-align: left"><span style="color: #aaaaaa; font-size:14; font-style: italic;">Consulta todas las películas de esta categoría por ...</span></div>
+<div style="padding:2; text-align: left; background-color: #EEEEEE" >
+<span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="cat_upc_th_es.html"><b>Vista general</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="topcat.php?id=upc_th_es"><b>Ver por votación</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="countcat.php?id=upc_th_es"><b>Por n&ordm; de votos</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="catbygenre.php?id=upc_th_es"><b>Por género</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap; background-color: #FFCC00"><b>Por fecha lanzamiento</b></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="reccat.php?cat=upc_th_es"><b>Recomendaciones</b></a></span> </div>
+
+<br>
+<table width="100%">
+
+
+	<tr><td bgcolor="#336699" class="wcap">13 de Mayo de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film593256.html"><img src="http://pics.filmaffinity.com/Arthur_3_La_guerra_de_los_mundos-593256-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film593256.html">Arthur 3: La guerra de los mundos</a></b>	(2010)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+
+<tr><td><span style="font-size: 10px; color:#666666"><b>Luc Besson</b></span> <span style="font-size: 10px;">(Animation, Freddie Highmore, Mia Farrow)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Fantástico. Aventuras. Secuela. Cine familiar / SINOPSIS: Tercera y última entrega de la trilogía de Arthur y los Minimoys. Maltazard ha conseguido infiltrarse en el mundo de los hombres. ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film677983.html"><img src="http://pics.filmaffinity.com/El_equipo_tigre_La_montana_de_los_mil_dragones-677983-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film677983.html">El equipo tigre: La montaña de los mil dragones</a></b>	(2010)	<img src="/imgs/countries/DE.jpg" title="Alemania" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Peter Gersina</b></span> <span style="font-size: 10px;">(Helena Siegmund-Schultze, Bruno Schubert, Justus Kammerer)</span></td></tr>
+<tr><td><div style="font-size: 10px">Aventuras. Cine familiar / SINOPSIS: Bigi, Luky y Patrick, que forman el equipo del tigre (tiger team), encuentran un misterioso objeto que está relacionado con la legendaria montaña de los Mil ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film602725.html"><img src="http://pics.filmaffinity.com/El_inocente-602725-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film602725.html">El inocente</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Brad Furman</b></span> <span style="font-size: 10px;">(Matthew McConaughey, Ryan Phillippe, Marisa Tomei)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Drama judicial / SINOPSIS: Mickey Haller es un abogado que se ha especializado en defender a criminales de poca monta procedentes de los barrios bajos. Cuando un día se le presenta la ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film567174.html"><img src="http://pics.filmaffinity.com/Medianoche_en_Paris-567174-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film567174.html">Medianoche en París</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Woody Allen</b></span> <span style="font-size: 10px;">(Owen Wilson, Marion Cotillard, Rachel McAdams)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Romance. Comedia romántica / SINOPSIS: Comedia romántica que gira en torno a una familia que viaja a París por negocios; al mismo tiempo, una joven pareja que está a punto de casarse se ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film370386.html"><img src="http://pics.filmaffinity.com/Sin_identidad-370386-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film370386.html">Sin identidad</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jaume Collet-Serra</b></span> <span style="font-size: 10px;">(Liam Neeson, January Jones, Diane Kruger)</span></td></tr>
+<tr><td><div style="font-size: 10px">2011: Festival de Berlín: Sección oficial largometrajes (Fuera de competición) / Thriller / SINOPSIS: Mientras se encuentra con su mujer de visita en Berlín, el doctor Martin Harris (Liam Neeson) ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film921113.html"><img src="http://pics.filmaffinity.com/Tournee_On_Tour-921113-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film921113.html">Tournée  (On Tour)</a></b>	(2010)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Mathieu Amalric</b></span> <span style="font-size: 10px;">(Mathieu Amalric, Julie Ferrier, Anne Benoît)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: Festival de Cannes: Mejor director 2010: Premios Cesar: 7 nominaciones, incluyendo Mejor película / Drama / SINOPSIS: Apenas cumplidos los cuarenta años, Joachim, un exitoso productor de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film737104.html"><img src="http://pics.filmaffinity.com/Estas_ahi-737104-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film737104.html">¿Estás ahí?</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Roberto Santiago</b></span> <span style="font-size: 10px;">(Gorka Otxoa, Miren Ibarguren, Carme Elías)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Fantástico. Sobrenatural. Fantasmas / SINOPSIS: Fran y Ana acaban de mudarse a vivir juntos y se encuentran con las dificultades habituales de cualquier joven pareja que está empezando: la ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">20 de Mayo de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film439494.html"><img src="http://pics.filmaffinity.com/Confucio-439494-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film439494.html">Confucio</a></b>	(2010)	<img src="/imgs/countries/CN.jpg" title="China" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Hu Mei</b></span> <span style="font-size: 10px;">(Chow Yun-Fat, Chen Daoming, Zhou Xun)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Biográfico / SINOPSIS: Confucio, el más famoso e influyente de los filósofos chinos, vivió entre los siglos VI y V a.C. El film se centra en la última etapa de su vida. A los 51 años, Confucio ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film240168.html"><img src="http://pics.filmaffinity.com/Piratas_del_Caribe_En_mareas_misteriosas_Piratas_del_Caribe_4-240168-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film240168.html">Piratas del Caribe: En mareas misteriosas (Piratas del Caribe 4)</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Rob Marshall</b></span> <span style="font-size: 10px;">(Johnny Depp, Geoffrey Rush, Penélope Cruz)</span></td></tr>
+<tr><td><div style="font-size: 10px">Aventuras. Fantástico. Aventuras marinas. Piratas. Capa y espada. Secuela / SINOPSIS: Cuando Jack Sparrow (Johnny Depp) vuelve a encontrarse con una mujer a la que había conocido años atrás (Penélope ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film331737.html"><img src="http://pics.filmaffinity.com/Una_mujer_una_pistola_y_una_tienda_de_fideos_chinos-331737-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film331737.html">Una mujer, una pistola y una tienda de fideos chinos</a></b>	(2009)	<img src="/imgs/countries/CN.jpg" title="China" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Zhang Yimou</b></span> <span style="font-size: 10px;">(Sun Honglei, Xiao Shenyang, Yan Ni)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Thriller. Western. Siglo X. Remake / SINOPSIS: Cuando el propietario de un restaurante perdido en medio de un desierto, en el oeste de China, descubre que su mujer lo está engañando, contrata a un ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">27 de Mayo de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film187266.html"><img src="http://pics.filmaffinity.com/Dinero_facil-187266-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film187266.html">Dinero fácil</a></b>	(2010)	<img src="/imgs/countries/SE.jpg" title="Suecia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Daniel Espinosa</b></span> <span style="font-size: 10px;">(Joel Kinnaman, Matias Padin, Dragomir Mrsic)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: Premios Guldbagge (Suecia): Mejor actor (Joel Kinnaman), fotografía, logro - mención / Thriller. Drama. Crimen / SINOPSIS: Los bajos fondos de Estocolmo son un sumidero al que han ido a parar ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film619617.html"><img src="http://pics.filmaffinity.com/El_castor-619617-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film619617.html">El castor</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jodie Foster</b></span> <span style="font-size: 10px;">(Mel Gibson, Jodie Foster, Anton Yelchin)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Drama / SINOPSIS: Comedia negra que narra la historia de Walter Black (Mel Gibson), un hombre deprimido que encuentra una vía de escape en forma de consuelto emocional en una marioneta que ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film996751.html"><img src="http://pics.filmaffinity.com/El_extrano_caso_de_Angelica-996751-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film996751.html">El extraño caso de Angélica</a></b>	(2010)	<img src="/imgs/countries/PT.jpg" title="Portugal" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Manoel de Oliveira</b></span> <span style="font-size: 10px;">(Pilar López de Ayala, 	Ricardo Trêpa, Filipe Vargas)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Fantasmas / SINOPSIS: Penúltimo largometraje del incombustible Manoel de Oliveira, que esta vez se divierte con una película de fantasmas en la que un fotógrafo emprende un viaje alucinado ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film249674.html"><img src="http://pics.filmaffinity.com/Nowhere_Boy_El_joven_John_Lennon-249674-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film249674.html">Nowhere Boy   (El joven John Lennon)</a></b>	(2009)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Sam Taylor Wood</b></span> <span style="font-size: 10px;">(Aaron Johnson, Kristin Scott Thomas, Thomas Brodie-Sangster)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Biográfico. Adolescencia. Música / SINOPSIS: Película biográfica que recorre los primeros años de la vida del músico John Lennon hasta la formación de los Beatles, parándose en su infancia y ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film845447.html"><img src="http://pics.filmaffinity.com/Pequenas_mentiras_sin_importancia-845447-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film845447.html">Pequeñas mentiras sin importancia</a></b>	(2010)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Guillaume Canet</b></span> <span style="font-size: 10px;">(François Cluzet, Marion Cotillard, Benoît Magimel)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Drama. Amistad. Comedia dramática / SINOPSIS: Max, el propietario de un restaurante de éxito, y Véro, su ecologista mujer, invitan como todos los años a un grupo de amigos a su bella casa de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film165337.html"><img src="http://pics.filmaffinity.com/Senna-165337-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film165337.html">Senna</a></b>	(2010)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Asif Kapadia</b></span> <span style="font-size: 10px;">(Documentary, Ayrton Senna)</span></td></tr>
+<tr><td><div style="font-size: 10px">Documental. Biográfico. Deporte. Automovilismo / SINOPSIS: Largometraje documental que recorre la vida del legendario piloto brasileño Ayrton Senna (1960-1994), desde la temporada de su debut en 1984 ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film983811.html"><img src="http://pics.filmaffinity.com/SuperBrother-983811-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film983811.html">SuperBrother</a></b>	(2009)	<img src="/imgs/countries/DK.jpg" title="Dinamarca" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Birger Larsen</b></span> <span style="font-size: 10px;">(Lucas Odin Clorius, Viktor Kruse Palshøj, Andrea Reimer)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: Festival Robert: Mejor película infantil o familiar / Aventuras. Infantil. Superhéroes / SINOPSIS: Anton es un niño de 10 años, cuyo hermano mayor es autista, por lo que siente la necesidad de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">3 de Junio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film893954.html"><img src="http://pics.filmaffinity.com/Arthur_el_soltero_de_oro-893954-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film893954.html">Arthur, el soltero de oro</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jason Winer</b></span> <span style="font-size: 10px;">(Russell Brand, Helen Mirren, Jennifer Garner)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Remake / SINOPSIS: Arthur es un joven que lleva una vida demasiado superficial y alocada (demasiadas fiestas, mujeres y alcohol), pero no tendrá más remedio que cambiar si quiere recibir una ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film120716.html"><img src="http://pics.filmaffinity.com/El_arbol-120716-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film120716.html">El árbol</a></b>	(2010)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Julie Bertucelli</b></span> <span style="font-size: 10px;">(Charlotte Gainsbourg, Marton Csokas, Christian Byers)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Comedia. Comedia dramática / SINOPSIS: El periodo de luto que viven una mujer (Charlotte Gainsbourg) y sus hijos después de la repentina muerte del marido y padre sirve para mostrar la ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film875477.html"><img src="http://pics.filmaffinity.com/X_Men_Primera_generacion-875477-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film875477.html">X-Men: Primera generación</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Matthew Vaughn</b></span> <span style="font-size: 10px;">(James McAvoy, Kevin Bacon, Michael Fassbender)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Fantástico. Ciencia ficción. Acción. Cómic. Superhéroes / SINOPSIS: ‘X-Men: First Class’ narra la juventud del profesor Xavier y Eric Lensherr (Magneto) antes de que estalle su rivalidad, cuando aún ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film813875.html"><img src="http://pics.filmaffinity.com/Que_dilema-813875-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film813875.html">¡Qué dilema!</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Ron Howard</b></span> <span style="font-size: 10px;">(Vince Vaughn, Kevin James, Jennifer Connelly)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Drama. Amistad / SINOPSIS: Ronny (Vince Vaughn), un soltero empedernido, y Nick (Kevin James), un hombre felizmente casado, han sido amigos incondicionales desde los tiempos de la ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">10 de Junio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film706005.html"><img src="http://pics.filmaffinity.com/Almas_condenadas-706005-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film706005.html">Almas condenadas</a></b>	(2010)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Wes Craven</b></span> <span style="font-size: 10px;">(Max Thieriot, Denzel Whitaker, Frank Grillo)</span></td></tr>
+<tr><td><div style="font-size: 10px">Terror. Thriller. 3-D. Slasher / SINOPSIS: En la tranquila y pequeña ciudad de Riverton, la leyenda cuenta que un asesino en serie juró regresar para matar a los siete niños que nacieron la noche que ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film335175.html"><img src="http://pics.filmaffinity.com/Conviction-335175-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film335175.html">Conviction</a></b>	(2010)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Tony Goldwyn</b></span> <span style="font-size: 10px;">(Hilary Swank, Sam Rockwell, Juliette Lewis)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Thriller / SINOPSIS: Betty Anne Waters es un auténtico ejemplo de estoicismo, solidaridad y entrega. En 2001, su hermano Kenny fue puesto en libertad tras haber pasado 18 años en la cárcel de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film964957.html"><img src="http://pics.filmaffinity.com/Hanna-964957-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film964957.html">Hanna</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Joe Wright</b></span> <span style="font-size: 10px;">(Saoirse Ronan, Eric Bana, Cate Blanchett)</span></td></tr>
+<tr><td><div style="font-size: 10px">Thriller. Aventuras / SINOPSIS: Una chica de catorce años (Ronan) que vive en la Europa del Este es entrenada por su padre (Eric Bana) para llegar a ser una asesina profesional. Una fría agente de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film427804.html"><img src="http://pics.filmaffinity.com/Hermano-427804-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film427804.html">Hermano</a></b>	(2010)	<img src="/imgs/countries/VE.jpg" title="Venezuela" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Marcel Rasquin</b></span> <span style="font-size: 10px;">(Eliú Armas, Beto Benites, Gonzalo Cubero)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: Oscar: Pre-seleccionada por Venezuela como &quot;Mejor película de habla no inglesa&quot; 2010: Festival Internacional de Moscú: Mejor película 2010: Festival de Cine Iberoaméricano de Huelva: ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film760103.html"><img src="http://pics.filmaffinity.com/Insidious-760103-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film760103.html">Insidious</a></b>	(2010)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>James Wan</b></span> <span style="font-size: 10px;">(Patrick Wilson, Rose Byrne, Barbara Hershey)</span></td></tr>
+<tr><td><div style="font-size: 10px">Terror. Sobrenatural. Posesiones/Exorcismos / SINOPSIS: Josh (Patrick Wilson), su esposa Renai (Rose Byrne) y sus tres hijos acaban de mudarse a una vieja casa. Pero, tras un desgraciado accidente, ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film870537.html"><img src="http://pics.filmaffinity.com/La_prima_cosa_bella-870537-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film870537.html">La prima cosa bella</a></b>	(2010)	<img src="/imgs/countries/IT.jpg" title="Italia" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Paolo Virzì</b></span> <span style="font-size: 10px;">(Valerio Mastandrea, Micaela Ramazzotti, Stefania Sandrelli)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: Premios del Cine Europeo: Nominada mejor director 2010: David di Donatello: Nominada a la mejor película / Comedia. Comedia dramática / SINOPSIS: ¿Qué significa tener una mamá bella, vital, ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film803987.html"><img src="http://pics.filmaffinity.com/Mami_Blue-803987-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film803987.html">Mami Blue</a></b>	(2010)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Miguel Ángel Calvo Buttini</b></span> <span style="font-size: 10px;">(Mª Alfonsa Rosso, Lorena Vindel, Fele Martínez)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Road Movie / SINOPSIS: Una joven inmigrante hondureña y una madre, cuyo hijo (Fele Martínez) la quiere ingresar en una residencia, deciden ir a Huelva. Durante el viaje se ven obligadas a ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">17 de Junio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film192114.html"><img src="http://pics.filmaffinity.com/Algo_prestado-192114-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film192114.html">Algo prestado</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Luke Greenfield</b></span> <span style="font-size: 10px;">(Kate Hudson, Ginnifer Goodwin, John Krasinski)</span></td></tr>
+<tr><td><div style="font-size: 10px">Romance. Comedia. Drama. Comedia romántica. Amistad / SINOPSIS: Hay una delgada línea entre el amor y la amistad. Darcy (Kate Hudson) y Rachel (Ginnifer Goodwin) son dos buenas amigas que viven en ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film245775.html"><img src="http://pics.filmaffinity.com/Cena_de_amigos-245775-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film245775.html">Cena de amigos</a></b>	(2009)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Danièle Thompson</b></span> <span style="font-size: 10px;">(Karin Viard, Dany Boon, Marina Foïs)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Romance. Comedia romántica / SINOPSIS: En una cena de verano se reúnen varios amigos. Cada uno de ellos trata de enmascarar sus problemas personales y pasar una agradable noche de comida, ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film412669.html"><img src="http://pics.filmaffinity.com/Four_Lions-412669-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film412669.html">Four Lions</a></b>	(2010)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Christopher Morris</b></span> <span style="font-size: 10px;">(Riz Ahmed, Kayvan Novak, Nigel Lindsay)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: 1 Premio BAFTA: Mejor debut. Nominado a mejor film británico / Comedia. Drama. Terrorismo / SINOPSIS: Omar (Ahmed), un musulmán radical de nacionalidad inglesa, ha creado una célula terrorista ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film349276.html"><img src="http://pics.filmaffinity.com/Kung_Fu_Panda_2-349276-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film349276.html">Kung Fu Panda 2</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jennifer Yuh</b></span> <span style="font-size: 10px;">(Animation)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Comedia. Acción. Artes marciales. Secuela / SINOPSIS: Secuela de la exitosa producción Kung Fu Panda. La historia vuelve a recuperar el personaje de Po, que ahora vive su sueño como ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film481569.html"><img src="http://pics.filmaffinity.com/Soul_Surfer-481569-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film481569.html">Soul Surfer</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Sean McNamara</b></span> <span style="font-size: 10px;">(Sonya Balmores, Chris Brochu, Christie Brooke)</span></td></tr>
+<tr><td><div style="font-size: 10px">Acción. Drama. Deporte. Surf / SINOPSIS: Una joven adolescente surfista deberá armarse de valor para volver a los océanos, tras perder un brazo a causa de un ataque de tiburón. (FILMAFFINITY)<br ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film265251.html"><img src="http://pics.filmaffinity.com/Una_mujer_en_Africa-265251-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film265251.html">Una mujer en África</a></b>	(2009)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Claire Denis</b></span> <span style="font-size: 10px;">(Isabelle Huppert, Christopher Lambert, Nicolas Duvauchelle)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. África. Colonialismo / SINOPSIS: En un conflictivo país del corazón de África, vive María (Isabelle Huppert), una terrateniente en cuyas tierras se cultiva sobre todo café. Es una mujer de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">24 de Junio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film908796.html"><img src="http://pics.filmaffinity.com/Resacon_2_Ahora_en_Tailandia-908796-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film908796.html">Resacón 2 ¡Ahora en Tailandia!</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Todd Phillips</b></span> <span style="font-size: 10px;">(Zach Galifianakis, Bradley Cooper, Ed Helms)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Secuela / SINOPSIS: Phil, Stu, Alan y Doug viajan hasta Tailandia para asistir a la boda de Stu. (FILMAFFINITY)<br />
+<br />
+Estreno en USA: mayo 2011.<br ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film590486.html"><img src="http://pics.filmaffinity.com/The_French_Kissers-590486-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film590486.html">The French Kissers</a></b>	(2009)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Riad Sattouf</b></span> <span style="font-size: 10px;">(Vincent Lacoste, Anthony Sonigo, Alice Trémolière)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">2009: Premios Cesar: Mejor ópera prima / Comedia. Romance. Comedia romántica / SINOPSIS: Hervé, de 14 años, es un adolescente dominado por sus pulsiones, de apariencia ingrata y no muy listo que vive ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">1 de Julio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film394540.html"><img src="http://pics.filmaffinity.com/Blackthorn-394540-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film394540.html">Blackthorn</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Mateo Gil</b></span> <span style="font-size: 10px;">(Sam Shepard, Stephen Rea, Eduardo Noriega)</span></td></tr>
+<tr><td><div style="font-size: 10px">2011: Festival de Tribeca: Sección oficial competitiva internacional (largometrajes) / Western. Biográfico / SINOPSIS: Narra la historia de los últimos días del legendario ladrón de bancos Butch ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film535377.html"><img src="http://pics.filmaffinity.com/Caballeros_princesas_y_otras_bestias-535377-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film535377.html">Caballeros, princesas y otras bestias</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>David Gordon Green</b></span> <span style="font-size: 10px;">(Danny McBride, James Franco, Natalie Portman)</span></td></tr>
+<tr><td><div style="font-size: 10px">Aventuras. Comedia. Edad Media. Parodia. Magia. Brujería. Espada y brujería / SINOPSIS: Comedia medieval en la que un malvado mago, Leezar (Theroux) secuestra a una princesa (Deschanel). El príncipe ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film209972.html"><img src="http://pics.filmaffinity.com/El_hombre_de_al_lado-209972-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film209972.html">El hombre de al lado</a></b>	(2009)	<img src="/imgs/countries/AR.jpg" title="Argentina" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Mariano Cohn, Gastón Duprat</b></span> <span style="font-size: 10px;">(Rafael Spregelburd, Daniel Aráoz, Eugenia Alonso)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: Festival de Sundance: Mejor fotografía - Drama (World Cinema) 2010: Nominada al Goya: Mejor película hispanoamericana / Drama. Comedia / SINOPSIS: La película narra un conflicto entre vecinos ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film207090.html"><img src="http://pics.filmaffinity.com/El_viaje_del_director_de_Recursos_Humanos-207090-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film207090.html">El viaje del director de Recursos Humanos</a></b>	(2010)	<img src="/imgs/countries/IL.jpg" title="Israel" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Eran Riklis</b></span> <span style="font-size: 10px;">(Mark Ivanir, Reymond Amsalem, Gila Almagor)</span></td></tr>
+<tr><td><div style="font-size: 10px">2010: Seminci: Mejor música / Comedia. Drama / SINOPSIS: El gerente de Recursos Humanos de la panadería más grande de Jerusalén está en problemas: está separado de su mujer, distanciado de su hija y ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film322706.html"><img src="http://pics.filmaffinity.com/La_victima_perfecta-322706-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film322706.html">La víctima perfecta</a></b>	(2011)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Antti Jokinen</b></span> <span style="font-size: 10px;">(Jeffrey Dean Morgan, Hilary Swank, Christopher Lee)</span></td></tr>
+<tr><td><div style="font-size: 10px">Thriller. Terror. Drama / SINOPSIS: Juliet (Hilary Swank) es una joven doctora que, tras separarse de su marido, se instala en un cómodo apartamento de Brooklyn. Pero pronto descubre que no está sola ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film152794.html"><img src="http://pics.filmaffinity.com/Transformers_El_lado_oscuro_de_la_luna_Transformers_3-152794-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film152794.html">Transformers: El lado oscuro de la luna (Transformers 3)</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Michael Bay</b></span> <span style="font-size: 10px;">(Shia LaBeouf, Josh Duhamel, Rosie Huntington-Whiteley)</span></td></tr>
+<tr><td><div style="font-size: 10px">Ciencia ficción. Acción. Secuela. 3-D. Robots. Extraterrestres / SINOPSIS: Tercera parte de la saga Transformers, dirigida por Michael Bay y también protagonizada por Shia LaBeouf, pero ya sin la ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">6 de Julio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film677060.html"><img src="http://pics.filmaffinity.com/Cars_2_Coches_2-677060-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film677060.html">Cars 2 (Coches 2)</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Brad Lewis, John Lasseter</b></span> <span style="font-size: 10px;">(Animation)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Automovilismo. Secuela / SINOPSIS: Rayo McQueen y la adorable grúa Mate viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">8 de Julio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film481409.html"><img src="http://pics.filmaffinity.com/Amigos-481409-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film481409.html">Amigos</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Borja Manso, Marcos Cabotá</b></span> <span style="font-size: 10px;">(Ernesto Alterio, Diego Martín, Alberto Lozano)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">2011: Festival de Málaga: Sección oficial - Largometrajes a concurso / Comedia. Amistad / SINOPSIS: Nacho, Santi, Diego y Víctor, 35 años, son amigos desde la más tierna infancia. En sus años jóvenes ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film458180.html"><img src="http://pics.filmaffinity.com/Bad_Teacher-458180-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film458180.html">Bad Teacher</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jake Kasdan</b></span> <span style="font-size: 10px;">(Cameron Diaz, Justin Timberlake, Jason Segel)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Colegios &amp; Universidad / SINOPSIS: Elizabeth (Cameron Díaz) es una profesora bastante grosera y pasota. Es malhablada, despiadada e inapropiada. Bebe, se coloca y en lo único que piensa ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film878081.html"><img src="http://pics.filmaffinity.com/Beginners-878081-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film878081.html">Beginners</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Mike Mills</b></span> <span style="font-size: 10px;">(Ewan McGregor, Christopher Plummer, Mélanie Laurent)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Familia. Enfermedad. Homosexualidad / SINOPSIS: Cuenta la historia de un hijo que empezará a reeplantearse la vida y todas sus relaciones amorosas luego de que su padre de 71 años le cuenta ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film979315.html"><img src="http://pics.filmaffinity.com/Le_quattro_volte-979315-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film979315.html">Le quattro volte</a></b>	(2010)	<img src="/imgs/countries/IT.jpg" title="Italia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Michelangelo Frammartino</b></span> <span style="font-size: 10px;">(Giuseppe Fuda, Bruno Timpano, Nazareno Timpano)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama / SINOPSIS: Una visión poética de los ciclos de la vida y de la naturaleza, de las tradiciones olvidadas de un lugar fuera del tiempo. Una película de ciencia ficción sin efectos especiales, ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">15 de Julio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film392189.html"><img src="http://pics.filmaffinity.com/Harry_Potter_y_las_Reliquias_de_la_Muerte_Parte_II-392189-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film392189.html">Harry Potter y las Reliquias de la Muerte: Parte II</a></b>	(2011)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>David Yates</b></span> <span style="font-size: 10px;">(Daniel Radcliffe, Emma Watson, Rupert Grint)</span></td></tr>
+<tr><td><div style="font-size: 10px">Fantástico. Aventuras. Drama. Secuela. Magia / SINOPSIS: Última entrega de la famosa saga de Harry Potter. Estreno USA y España: julio 2011.<br />
+----------------------------------------<br />
+ ...</div></td></tr>
+
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">22 de Julio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film859736.html"><img src="http://pics.filmaffinity.com/Los_amos_de_Brooklyn-859736-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film859736.html">Los amos de Brooklyn</a></b>	(2009)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+
+<tr><td><span style="font-size: 10px; color:#666666"><b>Antoine Fuqua</b></span> <span style="font-size: 10px;">(Richard Gere, Don Cheadle, Ethan Hawke)</span></td></tr>
+<tr><td><div style="font-size: 10px">Thriller. Drama. Crimen / SINOPSIS: Tres policías, sin conexión entre ellos y con carreras muy diferentes, coincidirán durante una multitudinaria redada en la zona más peligrosa de Brooklyn. El hecho ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film352345.html"><img src="http://pics.filmaffinity.com/Paul-352345-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film352345.html">Paul</a></b>	(2011)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Greg Mottola</b></span> <span style="font-size: 10px;">(Simon Pegg, Nick Frost, Jane Lynch)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Ciencia ficción. Extraterrestres / SINOPSIS: Paul nos contará las aventuras de dos frikis ingleses que viajan hasta la Comic Con, y después decidirán ir hasta el Área 51. En su camino ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film793766.html"><img src="http://pics.filmaffinity.com/Rise_of_the_Planet_of_the_Apes-793766-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film793766.html">Rise of the Planet of the Apes</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Rupert Wyatt</b></span> <span style="font-size: 10px;">(James Franco, Andy Serkis, Freida Pinto)</span></td></tr>
+<tr><td><div style="font-size: 10px">Ciencia ficción. Aventuras. Acción. Precuela. Remake / SINOPSIS: Precuela del ya mítico largometraje &quot;El planeta de los simios&quot;. Franco interpretará a un joven científico que llegará a ser ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">29 de Julio de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+
+<td width="60" align="center" valign="top"><a href="/es/film482403.html"><img src="http://pics.filmaffinity.com/La_sombra_de_los_otros-482403-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film482403.html">La sombra de los otros</a></b>	(2010)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Måns Mårlind, Björn Stein</b></span> <span style="font-size: 10px;">(Julianne Moore, Jonathan Rhys Meyers, Jeffrey DeMunn)</span></td></tr>
+<tr><td><div style="font-size: 10px">Terror. Thriller / SINOPSIS: La historia sigue una psiquiatra forense (Julianne Moore) que se especializa en desmontar desórdenes de personalidad múltiple. Cuando descubre que todas las ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film897624.html"><img src="http://pics.filmaffinity.com/Linterna_verde-897624-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film897624.html">Linterna verde</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Martin  Campbell</b></span> <span style="font-size: 10px;">(Ryan Reynolds, Peter Sarsgaard, Blake Lively)</span></td></tr>
+<tr><td><div style="font-size: 10px">Ciencia ficción. Fantástico. Acción. Comedia. Superhéroes. Extraterrestres. Cómic / SINOPSIS: Adaptación a imagen real del popular personaje de DC Comics, Linterna Verde. (FILMAFFINITY)<br />
+
+<br ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film376514.html"><img src="http://pics.filmaffinity.com/Take_Me_Home_Tonight-376514-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film376514.html">Take Me Home Tonight</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Michael Dowse</b></span> <span style="font-size: 10px;">(Topher Grace, Anna Faris, Teresa Palmer)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Comedia juvenil. Amistad / SINOPSIS: En el verano de 1988, tras licenciarse en la Universidad, tres amigos están a punto de asistir a una fiesta desenfrenada. Uno de ellos, Matt Franklin ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">5 de Agosto de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film942015.html"><img src="http://pics.filmaffinity.com/Capitan_America-942015-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film942015.html">Capitán América</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Joe Johnston</b></span> <span style="font-size: 10px;">(Chris Evans, Sebastian Stan, Hayley Atwell)</span></td></tr>
+<tr><td><div style="font-size: 10px">Acción. Fantástico. Superhéroes. Cómic. 3-D / SINOPSIS: Nacido durante la Gran Depresión, Steve Rogers creció como un chico frágil en una familia pobre. Horrorizado por los noticiarios sobre los ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film270077.html"><img src="http://pics.filmaffinity.com/Los_pitufos-270077-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film270077.html">Los pitufos</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Raja Gosnell</b></span> <span style="font-size: 10px;">(Animation)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Cómic. Cine familiar. 3-D / SINOPSIS: Gargamel descubre la aldea mágica de los Pitufos y provoca que se dispersen por el bosque. Por desgracia, Tontín se equivoca de camino y, junto con ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">12 de Agosto de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film484542.html"><img src="http://pics.filmaffinity.com/El_cambiazo-484542-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film484542.html">El cambiazo</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>David Dobkin</b></span> <span style="font-size: 10px;">(Jason Bateman, Ryan Reynolds, Olivia Wilde)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia / SINOPSIS: Mitch (Ryan Reynolds) y Dave (Jason Bateman) eran amigos inseparables de niños y adolescentes, pero con el paso de los años, se han alejado. Dave es un abogado enganchado al ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film810875.html"><img src="http://pics.filmaffinity.com/Fin_de_curso_Prom-810875-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film810875.html">Fin de curso (Prom)</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Joe Nussbaum</b></span> <span style="font-size: 10px;">(Aimee Teegarden, Thomas McDonell, DeVaughn Nixon)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Comedia juvenil. Colegios &amp; Universidad / SINOPSIS: El baile de graduación se acerca y las historias entrecruzadas del instituto están a punto de alcanzar su punto culminante. Algunas ...</div></td></tr>
+
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">19 de Agosto de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film685396.html"><img src="http://pics.filmaffinity.com/Super_8-685396-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film685396.html">Super 8</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+
+<tr><td><span style="font-size: 10px; color:#666666"><b>J.J. Abrams</b></span> <span style="font-size: 10px;">(Elle Fanning, Amanda Michalka, Kyle Chandler)</span></td></tr>
+<tr><td><div style="font-size: 10px">Ciencia ficción. Extraterrestres. Años 70 / SINOPSIS: En 1979 se da el cierre por parte de la fuerza aérea del Área 51. Todo el material almacenado es transportado a Ohio en tren, cuando un camión se ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film717942.html"><img src="http://pics.filmaffinity.com/Un_chihuahua_en_Beverly_Hills_2-717942-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film717942.html">Un chihuahua en Beverly Hills 2</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Alex Zamm</b></span> <span style="font-size: 10px;">(Ernie Hudson, Olivia Newton-John, Christine Lakin)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Cine familiar. Perros &amp; lobos. Secuela / SINOPSIS: Secuela directa a DVD y Blu-Ray de la exitosa producción familiar de la Disney &quot;Un chihuahua en Beverly Hills&quot; (2008). ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">26 de Agosto de 2011</td></tr>
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film599360.html"><img src="http://pics.filmaffinity.com/Conan-599360-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film599360.html">Conan</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Marcus Nispel</b></span> <span style="font-size: 10px;">(Jason Momoa, Ron Perlman, Rachel Nichols)</span></td></tr>
+<tr><td><div style="font-size: 10px">Fantástico. Acción. Aventuras. Cómic. 3-D. Espada y brujería / SINOPSIS: Nueva adaptación de la historia de Conan el bárbaro y sus aventuras a través del continente de Hyboria. (FILMAFFINITY)<br ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film299678.html"><img src="http://pics.filmaffinity.com/Despedida_de_solteras-299678-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film299678.html">Despedida de solteras</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Paul Feig</b></span> <span style="font-size: 10px;">(Kristen Wiig, Rose Byrne, Jon Hamm)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Bodas / SINOPSIS: La película trata sobre Annie (Kristen Wiig), una chica soltera de 30 y algo del Medio Oeste de Estados Unidos (con un registro muy escaso de novios) a la que su mejor ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film372723.html"><img src="http://pics.filmaffinity.com/Destino_final_5-372723-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film372723.html">Destino final 5</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Steven Quale</b></span> <span style="font-size: 10px;">(Miles Fisher, Arlen Escarpeta, Nicholas D'Agosto)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Terror. Secuela. Slasher. 3-D / SINOPSIS: Quinta entrega de la popular franquicia de terror &quot;Destino final&quot;. (FILMAFFINITY)<br />
+<br />
+Estreno en USA y España: agosto 2011.<br ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film772718.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film772718.html">Lo contrario al amor</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Vicente Villanueva</b></span> <span style="font-size: 10px;">(Adriana Ugarte, Hugo Silva, Luis Callejo)</span></td></tr>
+<tr><td><div style="font-size: 10px">Romance. Comedia. Comedia romántica<br />
+----------------------------------------<br />
+ ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">2 de Septiembre de 2011</td></tr>
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film376630.html"><img src="http://pics.filmaffinity.com/Cowboys_Aliens-376630-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film376630.html">Cowboys &amp; Aliens</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jon Favreau</b></span> <span style="font-size: 10px;">(Daniel Craig, Olivia Wilde, Harrison Ford)</span></td></tr>
+<tr><td><div style="font-size: 10px">Ciencia ficción. Western. Extraterrestres. Cómic / SINOPSIS: En 1880, en el viejo Oeste, los colonos y los indios se enfrentan en una batalla salvaje por el control de las tierras. Pero cuando la ...</div></td></tr>
+
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film271066.html"><img src="http://pics.filmaffinity.com/La_piel_que_habito-271066-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film271066.html">La piel que habito</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Pedro Almodóvar</b></span> <span style="font-size: 10px;">(Antonio Banderas, Elena Anaya, Marisa Paredes)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">2011: Festival de Cannes: Sección oficial a concurso / Drama. Terror / SINOPSIS: Desde que su mujer murió quemada en un accidente de coche, el Dr. Ledgard (Antonio Banderas), eminente cirujano ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film564755.html"><img src="http://pics.filmaffinity.com/Noche_de_miedo-564755-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film564755.html">Noche de miedo</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Craig Gillespie</b></span> <span style="font-size: 10px;">(Anton Yelchin, Colin Farrell, Toni Collette)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Terror. Comedia. Vampiros. Remake. Comedia de terror. 3-D / SINOPSIS: En su último año en el instituto, Charlie Brewster (Anton Yelchin) parece finalmente haber alcanzado todos sus objetivos: es uno ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film719729.html"><img src="http://pics.filmaffinity.com/Phineas_y_Ferb_A_traves_de_la_segunda_dimension-719729-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film719729.html">Phineas y Ferb: A través de la segunda dimensión</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Dan Povenmire</b></span> <span style="font-size: 10px;">(Animation)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Animación. Comedia. Infantil. Cine familiar / SINOPSIS: Phineas y Ferb descubre que su mascota, Perry el ornitorrinco, es un agente secreto que lucha contra las fuerzas del mal casi todos los días. ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film263965.html"><img src="http://pics.filmaffinity.com/The_Conspirator-263965-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film263965.html">The Conspirator</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Robert Redford</b></span> <span style="font-size: 10px;">(Evan Rachel Wood, James McAvoy, Alexis Bledel)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Drama. Basado en hechos reales. Siglo XIX. Drama judicial / SINOPSIS: En 1865, ocho sospechosos del asesinato del Presidente Abraham Lincoln, que se ocultaban en casa de una mujer, fueron detenidos. ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film712245.html"><img src="http://pics.filmaffinity.com/Zooloco-712245-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film712245.html">Zooloco</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Frank Coraci</b></span> <span style="font-size: 10px;">(Kevin James, Rosario Dawson, Leslie Bibb)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Romance. Animales. Cine familiar / SINOPSIS: Kevin James se pondrá en la piel del solitario cuidador de un zoológico, un hombre que quiere abandonar su trabajo porque es incapaz de mantener ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">9 de Septiembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film595187.html"><img src="http://pics.filmaffinity.com/La_deuda-595187-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film595187.html">La deuda</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>John Madden</b></span> <span style="font-size: 10px;">(Sam Worthington, Helen Mirren, Ciarán Hinds)</span></td></tr>
+<tr><td><div style="font-size: 10px">Thriller. Drama. Remake. Espionaje / SINOPSIS: En 1965 tres jóvenes agentes del Mossad (los servicios de inteligencia de Israel) capturan y matan, durante una misión secreta, a un importante criminal ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">23 de Septiembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film397525.html"><img src="http://pics.filmaffinity.com/Con_derecho_a_roce-397525-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film397525.html">Con derecho a roce</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Will Gluck</b></span> <span style="font-size: 10px;">(Mila Kunis, Justin Timberlake, Patricia Clarkson)</span></td></tr>
+<tr><td><div style="font-size: 10px">Romance. Comedia. Comedia romántica. Amistad / SINOPSIS: Narra cómo una relación entre dos amigos se complica cuando deciden involucrarse románticamente. (FILMAFFINITY)<br />
+<br />
+Estreno en USA: ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film701281.html"><img src="http://pics.filmaffinity.com/Jane_Eyre-701281-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film701281.html">Jane Eyre</a></b>	(2011)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Cary Fukunaga</b></span> <span style="font-size: 10px;">(Mia Wasikowska, Michael Fassbender, Judi Dench)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Drama. Romance. Drama romántico. Drama de época. Siglo XIX / SINOPSIS: Jane Eyre huye de Thornfield House, donde trabaja como institutriz contratada por el acomodado Edward Rochester. La aislada e ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film620999.html"><img src="http://pics.filmaffinity.com/London_Boulevard-620999-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film620999.html">London Boulevard</a></b>	(2010)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>William Monahan</b></span> <span style="font-size: 10px;">(Colin Farrell, Keira Knightley, Ray Winstone)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Thriller. Romance. Crimen / SINOPSIS: ‘London Boulevard’ gira en torno a un criminal del sur de Londres que, tras salir de prisión, intenta dejar el pasado atrás y cambiar de vida, para lo cual se ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film546051.html"><img src="http://pics.filmaffinity.com/No_habra_paz_para_los_malvados-546051-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film546051.html">No habrá paz para los malvados</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Enrique Urbizu</b></span> <span style="font-size: 10px;">(José Coronado, Rodolfo Sancho, Helena Miquel)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Thriller / SINOPSIS: El inspector de policía Santos Trinidad sigue la pista de una joven desaparecida cuando se ve involucrado en un tiroteo en el que mueren tres personas y un testigo logra escapar. ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film813167.html"><img src="http://pics.filmaffinity.com/Quiero_ser_italiano-813167-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film813167.html">Quiero ser italiano</a></b>	(2010)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Olivier Baroux</b></span> <span style="font-size: 10px;">(Kad Merad, Valérie Benguigui, Roland Giraud)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia / SINOPSIS: Dino Fabrizzi es un exitoso vendedor de coches en Niza. Con 42 años, ha llegado al punto sin retorno de su vida: le han ofrecido un ascenso en la compañía y su novia Hélène le ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film512560.html"><img src="http://pics.filmaffinity.com/The_Help-512560-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film512560.html">The Help</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Tate Taylor</b></span> <span style="font-size: 10px;">(Emma Stone, Bryce Dallas Howard, Mike Vogel)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Drama. Drama sureño. Años 60. Racismo. Amistad / SINOPSIS: Años 60, Mississippi. Skeeter (Emma Stone) es una joven de la sociedad sureña que regresa de la universidad decidida a convertirse en ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">30 de Septiembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film770850.html"><img src="http://pics.filmaffinity.com/Carolina_se_enamora-770850-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film770850.html">Carolina se enamora</a></b>	(2009)	<img src="/imgs/countries/IT.jpg" title="Italia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Federico Moccia</b></span> <span style="font-size: 10px;">(Veronica Olivier, Giuseppe Maggio, Beatrice Flammini)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Drama. Romance. Adolescencia / SINOPSIS: Carolina, de 14 años, es libre e independiente. Optimista y alegre, llega al instituto con ganas de más paga semanal y una moto que le permita llegar ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film810283.html"><img src="http://pics.filmaffinity.com/Johnny_English_2-810283-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film810283.html">Johnny English 2</a></b>	(2011)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Oliver Parker</b></span> <span style="font-size: 10px;">(Rowan Atkinson, Rosamund Pike, Dominic West)</span></td></tr>
+<tr><td><div style="font-size: 10px">Comedia. Espionaje. Secuela / SINOPSIS: Durante su desaparición de la faz de la tierra, el mejor espía del MI7 ha estado puliendo sus increíbles habilidades en una lejana región de Oriente. Pero ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">7 de Octubre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film455299.html"><img src="http://pics.filmaffinity.com/El_Capitan_Trueno_y_el_Santo_Grial-455299-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film455299.html">El Capitán Trueno y el Santo Grial</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Antonio Hernández</b></span> <span style="font-size: 10px;">(Sergio Peris Mencheta, Natasha Yarovenko, Manuel Martínez)</span></td></tr>
+<tr><td><div style="font-size: 10px">Aventuras. Acción. Cómic. 3-D / SINOPSIS: Adaptación del famoso cómic español. Se rodará en inglés, su presupuesto será de 15 millones de euros y su rodaje comenzará a mediados de noviembre 2010 en ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film138154.html"><img src="http://pics.filmaffinity.com/Intruders-138154-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film138154.html">Intruders</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Juan Carlos Fresnadillo</b></span> <span style="font-size: 10px;">(Clive Owen, Carice van Houten, Daniel Brühl)</span></td></tr>
+<tr><td><div style="font-size: 10px">Thriller. Sobrenatural / SINOPSIS: Juan tiene 7 años y una imaginación desbordante. En su habitación de un barrio humilde de Madrid, sufre los salvajes ataques de un intruso sin rostro que domina sus ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film778631.html"><img src="http://pics.filmaffinity.com/Mientras_duermes-778631-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film778631.html">Mientras duermes</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jaume Balagueró</b></span> <span style="font-size: 10px;">(Luis Tosar, Marta Etura, Alberto San Juan)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Terror. Thriller. Thriller psicológico / SINOPSIS: César trabaja de portero en un edificio de apartamentos. Puede que no sea el mejor trabajo del mundo, pero la verdad es que no lo cambiaría por ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">14 de Octubre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film106262.html"><img src="http://pics.filmaffinity.com/One_Day-106262-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film106262.html">One Day</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Lone Scherfig</b></span> <span style="font-size: 10px;">(Anne Hathaway, Jim Sturgess, Patricia Clarkson)</span></td></tr>
+<tr><td><div style="font-size: 10px">Romance. Comedia. Comedia romántica. Amistad / SINOPSIS: Los jóvenes Emma (Anne Hathaway) y Dexter (Jim Sturgess) se conocen la noche de su graduación de la Universidad el 15 de julio de 1988. Ella ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film960095.html"><img src="http://pics.filmaffinity.com/Restless-960095-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film960095.html">Restless</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Gus Van Sant</b></span> <span style="font-size: 10px;">(Mia Wasikowska, Henry Hopper, Ryo Kase)</span></td></tr>
+<tr><td><div style="font-size: 10px">Romance. Drama. Drama romántico. Enfermedad. Adolescencia / SINOPSIS: Con quince millones de dólares de presupuesto, &quot;Restless&quot; narra la historia de amor de una joven pareja. Ella (Mia ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">21 de Octubre de 2011</td></tr>
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film780335.html"><img src="http://pics.filmaffinity.com/Anonymous-780335-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film780335.html">Anonymous</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Roland Emmerich</b></span> <span style="font-size: 10px;">(Rhys Ifans, Vanessa Redgrave, Derek Jacobi)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Thriller. Siglo XVI / SINOPSIS: Inglaterra Isabelina, siglo XVI. El film plantea una cuestión que, durante siglos, han debatido académicos y grandes escritores desde Mark Twain y Charles ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film892276.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film892276.html">La cosa</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Matthijs van Heijningen Jr.</b></span> <span style="font-size: 10px;">(Mary Elizabeth Winstead, Eric Christian Olsen, Joel Edgerton)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Ciencia ficción. Precuela / SINOPSIS: Antártida, un continente extraordinario de impresionante belleza. También es una zona aislada donde un descubrimiento lleno de magnificas oportunidades ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film731038.html"><img src="http://pics.filmaffinity.com/Pina-731038-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film731038.html">Pina</a></b>	(2011)	<img src="/imgs/countries/DE.jpg" title="Alemania" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Wim Wenders</b></span> <span style="font-size: 10px;">(Pina Bausch, Regina Advento, Malou Airaudo)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">2011: Festival de Berlín: Sección oficial largometrajes (Fuera de competición) / Musical. Ballet. Biográfico. 3-D / SINOPSIS: Homenaje de Wim Wenders en 3-D a la bailarina y coreógrafa alemana Pina ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">28 de Octubre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film338747.html"><img src="http://pics.filmaffinity.com/Las_Aventuras_de_Tintin_El_Secreto_del_Unicornio-338747-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film338747.html">Las Aventuras de Tintín: El Secreto del Unicornio</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Steven Spielberg </b></span> <span style="font-size: 10px;">(Jamie Bell, Daniel Craig, Andy Serkis)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Aventuras. Cómic. 3-D / SINOPSIS: Dirigida por Spielberg y producida por éste y por Peter Jackson, el joven actor Jamie Bell, que saltó a la fama al encarnar a &quot;Billy Elliot&quot; ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film328811.html"><img src="http://pics.filmaffinity.com/Lobos_de_Arga-328811-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film328811.html">Lobos de Arga</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Juan Martínez Moreno</b></span> <span style="font-size: 10px;">(Gorka Otxoa, Carlos Areces, Secun de la Rosa)</span></td></tr>
+<tr><td><div style="font-size: 10px">Terror. Acción. Comedia. Hombres lobo / SINOPSIS: Corre el año 1910, en Arga, un pequeño pueblo de Galicia. Una terrible maldición cae sobre la  malvada marquesa de Mariño y su hijo, convirtiéndole ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film445497.html"><img src="http://pics.filmaffinity.com/Timidos_anonimos-445497-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film445497.html">Tímidos anónimos</a></b>	(2010)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jean-Pierre Améris</b></span> <span style="font-size: 10px;">(Isabelle Carré, Benoît Poelvoorde, Lorella Cravotta)</span></td></tr>
+<tr><td><div style="font-size: 10px">2011: Festival de Tribeca: Sección oficial competitiva internacional (largometrajes) / Romance. Comedia. Comedia romántica / SINOPSIS: Angélique y Jean-René, ambos extremadamente tímidos y que acuden ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">4 de Noviembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film285210.html"><img src="http://pics.filmaffinity.com/Verbo-285210-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film285210.html">Verbo</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Eduardo Chapero-Jackson</b></span> <span style="font-size: 10px;">(Alba García, Miguel Ángel Silvestre, Najwa Nimri)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Fantástico. Aventuras. Terror / SINOPSIS: Sara es una joven que no acaba de entender el mundo en el que vive. La búsqueda para darle un significado le llevará hasta un lugar secreto en el que se ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">11 de Noviembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film958444.html"><img src="http://pics.filmaffinity.com/Immortals-958444-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film958444.html">Immortals</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Tarsem Singh</b></span> <span style="font-size: 10px;">(Luke Evans, Mickey Rourke, Kellan Lutz)</span></td></tr>
+<tr><td><div style="font-size: 10px">Fantástico. Acción. Antigua Grecia. Mitología. Cine épico / SINOPSIS: “Immortals” nos contará la historia del joven guerrero Teseo (Henry Cavill), quien, junto a un grupo de hombres, intentará salvar ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">18 de Noviembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film233073.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film233073.html">La saga Crepúsculo: Amanecer - Parte 1</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Bill Condon</b></span> <span style="font-size: 10px;">(Kristen Stewart, Robert Pattinson, Taylor Lautner)</span></td></tr>
+<tr><td><div style="font-size: 10px">Fantástico. Romance. Thriller. Vampiros. Hombres lobo. Secuela / SINOPSIS: Primera parte de la adaptación de &quot;Amanecer&quot; que supone la cuarta entrega de la franquicia cinematográfica ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">23 de Noviembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film202595.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film202595.html">Los teleñecos (The Muppets)</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>James Bobin</b></span> <span style="font-size: 10px;">(Jason Segel, Amy Adams, Selena Gomez)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Cine familiar. Marionetas / SINOPSIS: Durante sus vacaciones en Los Ángeles, Walter, el fan número uno de los Teleñecos y sus amigos Gary (Jason Segel) y Mary (Amy Adams) de Smalltown, ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">25 de Noviembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film246486.html"><img src="http://pics.filmaffinity.com/El_gato_con_botas-246486-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film246486.html">El gato con botas</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Chris Smith</b></span> <span style="font-size: 10px;">(Animation)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Spin-off. Gatos. 3-D / SINOPSIS: Spin-off de la saga Shrek, que servirá como precuela de Shrek 2 y contará la historia del Gato con Botas. (FILMAFFINITY)<br />
+<br />
+Estreno en USA y ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">2 de Diciembre de 2011</td></tr>
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film866056.html"><img src="http://pics.filmaffinity.com/Acero_puro-866056-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film866056.html">Acero puro</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Shawn Levy</b></span> <span style="font-size: 10px;">(Hugh Jackman, Kevin Durand, Dakota Goyo)</span></td></tr>
+<tr><td><div style="font-size: 10px">Ciencia ficción. Acción. Drama. Deporte. Boxeo. Robots / SINOPSIS: La historia de Real Steel nos lleva hasta un futuro cercano donde el boxeo entre humanos ha sido suprimido y substituido por luchas ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film854433.html"><img src="http://pics.filmaffinity.com/Fuga_de_cerebros_2-854433-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film854433.html">Fuga de cerebros 2</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Carlos Therón</b></span> <span style="font-size: 10px;">(Patricia Montero, Adrián Lastra, Alberto Amarilla)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Secuela. Adolescencia / SINOPSIS: Secuela de &quot;Fuga de cerebros&quot;, en la que a los protagonistas de la anterior entrega Oxford se les ha quedado pequeño, y su próxima meta será la ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">16 de Diciembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film899081.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film899081.html">Misión imposible IV</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Brad Bird</b></span> <span style="font-size: 10px;">(Tom Cruise, Jeremy Renner, Josh Holloway)</span></td></tr>
+<tr><td><div style="font-size: 10px">Acción. Secuela / SINOPSIS: Cuarta entrega de la saga cinematográfica Misión imposible. Producida y protagonizada por Tom Cruise como el agente Ethan Hunt, estará dirigida por Brad Bird (Ratatouille, ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">23 de Diciembre de 2011</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film822840.html"><img src="http://pics.filmaffinity.com/Copito_de_nieve_el_gorila_blanco-822840-small.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film822840.html">Copito de nieve, el gorila blanco</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Andrés G. Schaer</b></span> <span style="font-size: 10px;">(Animation, Pere Ponce, Elsa Pataky)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Infantil. Comedia. 3-D. Animales. Simios / SINOPSIS: La película mezclará imagen real con animación 3D generada por ordenador. Ambientada en la Barcelona de los años 60, en donde Copito de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film479680.html"><img src="http://pics.filmaffinity.com/Santa_Claus_al_rescate-479680-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film479680.html">Santa Claus al rescate</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Barry Cook, Sarah Smith</b></span> <span style="font-size: 10px;">(Animation)</span></td></tr>
+<tr><td><div style="font-size: 10px">Animación. Ciencia ficción. Navidad / SINOPSIS: Comedia que se centrará en el tema de cómo es posible que Santa Claus sea capaz de entregar tantos regalos en una sola noche. (FILMAFFINITY)<br ...</div></td></tr>
+</table>
+
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film314315.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film314315.html">Tower Heist</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Brett Ratner</b></span> <span style="font-size: 10px;">(Ben Stiller, Téa Leoni, Eddie Murphy)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia. Acción. Crimen. Robos &amp; Atracos / SINOPSIS: La película cuenta la historia de un edificio de apartamentos en donde reside un rico millonario (intepretado por Alan Alda). Un grupo de ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">6 de Enero de 2012</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film982516.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film982516.html">Everybody Loves Whales</a></b>	(2012)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Ken Kwapis</b></span> <span style="font-size: 10px;">(Kristen Bell, Drew Barrymore, John Krasinski)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Romance. Basado en hechos reales / SINOPSIS: La historia en torno a cómo los medios de comunicación fijaron su atención en tres ballenas que se quedaron atrapadas en el hielo ártico a finales ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">20 de Enero de 2012</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film648543.html"><img src="http://www.filmaffinity.com/imgs/movies/noimg50x72.jpg" border="0"></a></td><td valign="top">
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film648543.html">Black Gold</a></b>	(2011)	<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jean-Jacques Annaud</b></span> <span style="font-size: 10px;">(Mark Strong, Antonio Banderas, Freida Pinto)</span></td></tr>
+<tr><td><div style="font-size: 10px">Aventuras. Drama / SINOPSIS: Adaptación de la clásica novela épica de Hans Ruesch, The Great Thirst. Cuenta la rivalidad entre dos emires árabes en los años treinta, la época en que empieza a ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td bgcolor="#336699" class="wcap">Sin fecha definida</td></tr>
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film706904.html"><img src="http://pics.filmaffinity.com/Asuntos_de_familia_City_Island-706904-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film706904.html">Asuntos de familia (City Island)</a></b>	(2009)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Raymond De Felitta</b></span> <span style="font-size: 10px;">(Andy Garcia, Julianna Margulies, Steven Strait)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Comedia / SINOPSIS: Vince, un funcionario de prisiones que además es un ejemplar padre de familia, descubre en la lista de nuevos convictos un nombre que le resulta familiar. Se trata de Tony, un ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film965816.html"><img src="http://pics.filmaffinity.com/Beastly-965816-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film965816.html">Beastly</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Daniel Barnz</b></span> <span style="font-size: 10px;">(Vanessa Hudgens, Alex Pettyfer, Neil Patrick Harris)</span></td></tr>
+
+<tr><td><div style="font-size: 10px">Fantástico. Drama. Romance. Terror. Drama romántico / SINOPSIS: Adaptación moderna del cuento de &quot;La bella y la bestia&quot;. En Nueva York, un adolescente es transformado en una bestia para que ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film233524.html"><img src="http://pics.filmaffinity.com/Don_t_Be_Afraid_of_the_Dark-233524-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film233524.html">Don't Be Afraid of the Dark</a></b>	(2011)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Troy Nixey</b></span> <span style="font-size: 10px;">(Guy Pearce, Katie Holmes, Bailee Madison)</span></td></tr>
+<tr><td><div style="font-size: 10px">Terror. Thriller. Remake / SINOPSIS: Remake de la producción televisiva homónima estrenada en 1973. Don’t Be Afraid of the Dark nos cuenta la historia de una chica que es enviada a vivir con su padre ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film381767.html"><img src="http://pics.filmaffinity.com/Eva-381767-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film381767.html">Eva</a></b>	(2011)	<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Kike Maíllo</b></span> <span style="font-size: 10px;">(Daniel Brühl, Alberto Ammann, Marta Etura)</span></td></tr>
+<tr><td><div style="font-size: 10px">Ciencia ficción. Fantástico. Drama. Robots / SINOPSIS: Año 2041. Un futuro cercano, donde los seres humanos viven acompañados de criaturas mecánicas. Eva, una niña de 10 años, es testigo único de un ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film460763.html"><img src="http://pics.filmaffinity.com/Fragmentos-460763-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film460763.html">Fragmentos</a></b>	(2008)	<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Rowan Woods</b></span> <span style="font-size: 10px;">(Kate Beckinsale, Dakota Fanning, Guy Pearce)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama / SINOPSIS: Varias personas, ajenas entre sí, establecerán una singular relación tras sobrevivir todos a un tiroteo en una cafetería de Los Ángeles. Tras el suceso, los supervivientes descubren ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film901936.html"><img src="http://pics.filmaffinity.com/La_doctrina_del_shock-901936-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film901936.html">La doctrina del shock</a></b>	(2009)	<img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Michael Winterbottom, Mat Whitecross</b></span> <span style="font-size: 10px;">(Documentary)</span></td></tr>
+<tr><td><div style="font-size: 10px">Documental. Política / SINOPSIS: La película rastrea los orígenes de las teorías radicales de Milton Friedman en la universidad de Chicago y su puesta en práctica, durante los pasados cuarenta años, ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film324117.html"><img src="http://pics.filmaffinity.com/La_soledad_de_los_numeros_primos-324117-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film324117.html">La soledad de los números primos</a></b>	(2010)	<img src="/imgs/countries/IT.jpg" title="Italia" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Saverio Costanzo</b></span> <span style="font-size: 10px;">(Alba Rohrwacher, Luca Marinelli, Isabella Rossellini)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama. Adolescencia. Discapacidad / SINOPSIS: En la escuela, Mattia había estudiado que, entre los números primos, aquellos que sólo son divisibles por sí mismos o por la unidad, hay algunos muy ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+
+
+	<tr><td><table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film820603.html"><img src="http://pics.filmaffinity.com/Norteado-820603-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+	 <b><a href="/es/film820603.html">Norteado</a></b>	(2009)	<img src="/imgs/countries/MX.jpg" title="México" border="0" align="middle"></td></tr>
+
+<tr><td></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Rigoberto Pérezcano</b></span> <span style="font-size: 10px;">(Harold Torres, Sonia Couoh, Alicia Laguna)</span></td></tr>
+<tr><td><div style="font-size: 10px">Drama / SINOPSIS: Andrés alcanza la frontera de México para intentar cruzar hacia Estados Unidos. Entre cada intento de cruce, descubre que la ciudad que lo adopta, Tijuana, no es fácil y mientas ...</div></td></tr>
+</table>
+</td></tr></table></td></tr>
+</table>
+<div style="margin-top:10px"></div>
+      </td>
+     <tr>
+    </table>
+
+    </td>
+     <td valign="top" align="right" width="140" bgcolor="#ffffff">
+<table id="rsban" width="140" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="right"><br/><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9828150778409198";
+/* 120x600 creado dic 2010 */
+google_ad_slot = "0937605826";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+	</tr>
+</table>
+	
+     </td>
+
+  </tr>
+</table>
+<br>
+<table style="border-top: 1px solid #003366"  class="ot" border="0" cellpadding="2" cellspacing="2">
+  <tr>
+    <td align="center">
+    <!-- Codigo para añadir a favoritos -->
+        <a href="javascript:window.external.AddFavorite('http://www.filmaffinity.com','FilmAffinity')">
+        Añade FA a tus webs favoritas</a>
+       <!-- Fin del codigo -->
+
+    | <a href="http://www.facebook.com/FilmAffinity" target="_blank">FA en el Facebook</a>
+	| <a href="/es/recommendus.php">Recomienda FA a tus amigos/as</a> 
+	| <a href="/es/faq.php">Preguntas más frecuentes</a>
+    | <a href="/es/private.php" >Política de privacidad</a>
+    </td>
+
+  </tr>
+  <tr>
+    <td align="center">
+    <span class="subtext">&copy; 2002-2010 Filmaffinity - Movieaffinity &nbsp; Todos los derechos reservados.</span>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

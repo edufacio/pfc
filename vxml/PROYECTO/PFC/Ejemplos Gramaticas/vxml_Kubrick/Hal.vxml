@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<vxml version = "2.1">
+
+  <meta name="maintainer" content="YOUREMAILADDRESS@HERE.com"/>
+
+      
+  <form id="Stan">
+
+    <field name="Kubrick">
+      <grammar src=" dynamic.cfm#KUBRICK" type="text/gsl"/>
+           
+      <prompt>
+        What is your favorite Stanley Kubrick movie? 
+	Is it 2001, A Clockwork Orange, or Doctor Strangelove?
+      </prompt>
+
+     <filled>
+
+       <if cond="Kubrick == 'two thousand one'">
+          Open the pod bay doors hal.
+       <elseif cond="Kubrick == 'clockwork orange'"/>
+          Viddy well, little droogies.
+       <elseif cond="Kubrick == 'doctor strangelove'"/>
+          Precious. Bodily. Fluids!
+      <elseif cond="Kubrick == 'the killing'"/>
+          Put the money in the bag!
+      <elseif cond="Kubrick == 'lolita'"/>
+          Humbert Humbert is thinking bad thoughts.
+      <elseif cond="Kubrick == 'barry lydon'"/>
+          Pistol duelling is best left to those who can hit what they aim at.
+      <elseif cond="Kubrick == 'day of the fight'"/>
+          Put up your dukes.
+      <elseif cond="Kubrick == 'the shining'"/>
+          Danny's not here missus Torrance!
+       <else/>
+       </if>
+    </filled>   
+  </field>
+ </form>
+</vxml>

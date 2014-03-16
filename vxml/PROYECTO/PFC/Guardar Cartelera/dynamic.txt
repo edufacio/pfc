@@ -1,0 +1,9 @@
+<CFQUERY NAME="q1" DATASOURCE="adm_7308952_cine">
+SELECT nombre FROM cartelera
+</CFQUERY>PELICULA[
+<CFOUTPUT query="q1">
+
+(#nombre#)		{<KubrickMovie   "#nombre#">}
+
+</CFOUTPUT>
+]

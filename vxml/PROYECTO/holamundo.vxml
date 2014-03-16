@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<vxml version="2.0" xmlns="http://www.w3.org/2001/vxml"  xmlns:voxeo="http://community.voxeo.com/xmlns/vxml"  xml:lang="es-MX"> 
+<property name="voicename" value="es-mx-fm3"/> 
+  <form>
+    <block>
+    <prompt>
+      Hola mundo
+    </prompt>
+    </block>
+  </form>
+</vxml>

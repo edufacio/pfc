@@ -1,0 +1,9 @@
+Accion
+Animacion
+Aventuras
+Ciencia Ficcion
+Comedia
+Drama
+Fantastico
+Romance
+Terror

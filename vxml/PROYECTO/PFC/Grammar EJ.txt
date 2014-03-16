@@ -1,0 +1,16 @@
+<grammar><![CDATA[
+			#JSGF V1.0;
+			grammar nombre;
+			public <nombre> = uno | dos | tres;]]>
+		</grammar>
+
+
+
+		<grammar type="text/gsl"> 
+			[uno dos tres]  
+		</grammar>
+
+
+Esta funciona:
+
+<grammar src="number.xml" type="application/grammar-xml"/>

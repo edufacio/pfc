@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<vxml version="2.0" xmlns="http://www.w3.org/2001/vxml" xmlns:voxeo="http://community.voxeo.com/xmlns/vxml"  xml:lang="es-MX"> 
+<property name="voicename" value="es-mx-fm3"/> 
+<menu>
+	<prompt>
+      Bienvenido al sistema de Cine por telefono. Diga una de las siguientes opciones: <enumerate/>
+    </prompt>
+	<choice next="actor.vxml">
+		Busqueda por actor
+	</choice>
+	<choice next="director.vxml">
+		Busqueda por diector
+	</choice>
+	<choice next="genero.vxml">
+		Busqueda por género
+	</choice>
+	<choice next="decada.vxml">
+		Busqueda por década
+	</choice>
+	<noinput>Por favor diga una <enumerate/></noinput>
+</menu>
+</vxml>

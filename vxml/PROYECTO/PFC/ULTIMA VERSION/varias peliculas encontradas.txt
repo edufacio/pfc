@@ -1,0 +1,248 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Búsqueda de &quot;infiltrados&quot; - FilmAffinity</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="description" content="filmaffinity.com es una web de cine que establece quiénes son las personas en todo el mundo que tienen mayor afinidad en tus gustos de cine, llamadas almas gemelas. Podrás saber sus consejos y recomendaciones sobre cualquier película que quieras ver en el cine, video, DVD o TV." />
+<meta name="keywords" content="cine, pelicula, películas, estrenos, sinopsis, dvd, video, critica, director, actor, actriz, movie, movies, film, films, cinema" />
+<link href="/style/main_es.css" rel="stylesheet" type="text/css" />
+<link href="/style/history.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/local_es.js"></script>
+<script language="JavaScript" type="text/javascript">
+</script>
+<style>
+.ot{width:1002px;}
+</style>
+</head><body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0  onload="ol()">
+
+
+<div style="background: #415570 url('/images2/fondo3.png') repeat-x left top;">
+<div>
+
+    <div class="cpanel" style="height:56px; position: relative;">
+        <div id="fa-info">
+            S&iacute;guenos a trav&eacute;s de <a target="_BLANK" href="http://www.facebook.com/FilmAffinity">Facebook</a> y <a target="_BLANK" href="https://twitter.com/Filmaffinity">Twitter</a>
+        </div>
+        <div style="float:left; padding-top: 10px;">
+            <a href="/es/main.html"><img src="/images2/logo.png"></a>
+        </div>
+
+        <div id="topsearch">
+            <form action="/es/search.php" method="get">
+                <input type="text" name="stext" size="20" value="infiltrados">
+                <select name="stype">
+                    <option value="all">Todas</option>
+                    <option value="title">T&iacute;tulo</option>
+                    <option value="director">Director</option>
+                    <option value="cast">Reparto</option>
+                </select>
+                <input type="submit" value="Buscar" style="width: 50px">
+            </form>
+            <div class="advsearch"><a href="/es/advsearch.php">B&uacute;squeda avanzada</a></div>
+        </div>
+    </div>
+
+    <div class="cpanel" style="padding: 2px; clear: both; height:18px;">
+        <ul id="trmenu">
+                    <li><a href="/es/topgen.php?nodoc=1">Top FA</a></li>
+            <li><a href="/es/imlost.php">Pasos</a></li>
+            <li><a href="/es/tours.php">Tours</a></li>
+            <li><a href="/es/main.html">Home</a></li>
+            <li><a href="http://www.filmaffinity.com/en/main.html">ENGLISH</a></li>
+        </ul>
+
+      <span style="color: #FFCC00">Tu p&aacute;gina de cine</span>
+    </div>
+
+    <div class="cpanel" style="padding: 2px;  text-align:center; clear: both; height:18px;">
+        <ul id="awardsmenu">
+            <li><a href="/es/best_2011.php">Resumen 2011</a></li>
+            <li><a href="/es/awards.php?award_id=academy_awards&year=2012">OSCARS 2012</a></li>
+            <li><a href="/es/awards.php?award_id=annie&year=2012">Annie</a></li>
+            <li><a href="/es/awards.php?award_id=razzie&year=2012">Razzie</a></li>
+            <li><a href="/es/awards.php?award_id=spirit&year=2012">Spirit</a></li>
+            <li><a href="/es/awards.php?award_id=goya&year=2012">Goya</a></li>
+            <li><a href="/es/awards.php?award_id=cesar&year=2012">C&eacute;sar</a></li>
+            <li><a href="/es/awards.php?award_id=berlin&year=2012">Berl&iacute;n</a></li>
+            <li><a href="/es/awards.php?award_id=bafta&year=2012">Bafta</a></li>
+            <li><a href="/es/awards.php?award_id=emmy&year=2011">Emmy</a></li>
+            <li><a href="/es/oscar_data.php">OSCARS</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+
+
+
+
+<div class="cpanel" style="margin-top: 10px; margin-bottom: 10px; text-align: center;">
+
+<script language="javascript" type="text/javascript">
+var agm_site="adconion.filmaffinity.es";
+var agm_sz="980x90,728x90";
+var agm_zona="buscador";
+var agm_resolw=window.screen.availWidth;
+var agm_resolh=window.screen.availHeight;
+agm_timestamp = window.agm_timestamp || Math.floor(Math.random()*1E16);
+if(typeof(agm_interstitial)=="undefined"){var agm_interstitial="dcopt=ist;"}else{var agm_interstitial=""}
+if(typeof(agm_tilecat)=="undefined"){var agm_tilecat=1}else{agm_tilecat++}
+document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://ad.es.doubleclick.net/adj/'+agm_site+'/'+agm_zona+';resw='+agm_resolw+';resh='+agm_resolh+';'+agm_interstitial+'tile='+agm_tilecat+';sz='+agm_sz+';ord='+agm_timestamp+'?"><\/scr'+'ipt>');
+</script>
+</div>
+
+
+
+
+<div class="cpanel" style="border: 1px solid #415570;">
+  <table style="width:100%; background: #ffffff; border-collapse:collapse; border-spacing:0;">
+    <tr>
+      <td style="vertical-align: top; background: #415570; width:150px;">
+        <style>
+#lsmenu {}
+#lsmenu .lsmheader {font-weight: bold;  font-size: 12px; padding: 6px 2px 0px 3px; color: #fff;}
+#lsmenu ul {list-style:none; margin:0; padding:0 2px 4px 2px; }
+#lsmenu li {margin:0; padding: 2px 1px 3px 1px; font-size: 11px;}
+#lsmenu li a:link, #lsmenu li a:hover, #lsmenu li a:visited {color: #eee; text-decoration:none; font-size: 11px; display:block; padding: 1px 1px 1px 8px;}
+#lsmenu li a:hover {color: #000; background:#ddd;}
+
+.admheader {background-color: #33606D; font-weight: bold; font-style: italic; font-size: 12px; padding: 6px 2px 0px 3px; color: #fff;}
+#admmenu { background-color: #33606D; color: #000; font-weight: bold;}
+#admmenu ul {list-style:none; margin:0; padding:0 2px 4px 2px; }
+#admmenu li {margin:0; padding: 2px 1px 3px 1px; font-size: 11px;}
+#admmenu li a:link, #admmenu li a:visited, #admmenu li a:hover{ color: #eee; text-decoration:none; font-size: 10px; display:block; padding: 1px 1px 1px 8px; font-weight: normal;}
+#admmenu li a:hover{color: #000; background:#ddd;}
+</style>
+<div id="lsmenu">
+        <div class="lsmheader">USUARIOS</div>
+    <ul>
+        <li><a href="/es/tours.php">Votar los tours</a></li>
+        <li><a href="/es/login.php">Entrada usuarios</a></li>
+        <li><a href="/es/register.php">Registrarse</a></li>
+    </ul>
+    <div class="lsmheader">ESPA&Ntilde;A</div>
+    <ul>
+        <li><a href="/es/cat_new_th_es.html">Pel&iacute;culas en cartelera</a></li>
+        <li><a href="/es/cityTheaters.php">Cines Espa&ntilde;a</a></li>        <li><a href="/es/rdcat.php?id=upc_th_es">Pr&oacute;ximos estrenos</a></li>
+        <li><a href="/es/cat_new_sa_es.html">Estrenos DVD venta</a></li>
+        <li><a href="/es/rdcat.php?id=upc_sa_es">Pr&oacute;ximos DVD venta</a></li>
+        <li><a href="/es/cat_new_fin_es.html">Por fin en DVD</a></li>
+        <li><a href="/es/cat_new_re_es.html">Ya para alquilar</a></li>
+        <li><a href="/es/rdcat.php?id=upc_re_es">Pr&oacute;ximamente alquiler</a></li>
+    </ul>
+
+    <div class="lsmheader">USA - GB - FR</div>
+    <ul>
+        <li><a href="/es/cat_new_th_us.html">Estrenos USA</a></li>
+        <li><a href="/es/cat_ESTR_UK.html">Estrenos Reino Unido</a></li>
+        <li><a href="/es/cat_estr_fr.html">Estrenos Francia</a></li>
+        <li><a href="/es/cat_DVD_VID_US.html">DVD/Video USA</a></li>
+    </ul>
+
+
+    <div class="lsmheader">SECCIONES</div>
+    <ul>
+        <li><a href="/es/boxoffice.php">Taquilla</a></li>
+        <li><a href="/es/trailers.php">Trailers</a></li>
+        <li><a href="/es/latestevideos.php">&Uacute;ltimos trailers</a></li>
+        <li><a href="/es/latestreviews.php">&Uacute;ltimas cr&iacute;ticas</a></li>
+        <li><a href="/es/allfilms.html">Todas las pel&iacute;culas</a></li>
+        <li><a href="/es/topics.php">Pel&iacute;culas por temas</a></li>
+    </ul>
+
+    <div class="lsmheader">TOPs</div>
+    <ul>
+        <li><a href="/es/topgen.php?nodoc=1">TOP Filmaffinity</a></li>
+        <li><a href="/es/topcat_new_th_es.html">TOP Estrenos</a></li>
+        <li><a href="/es/topcat_new_sa_es.html">TOP estrenos DVD</a></li>
+    </ul>
+
+    <div class="lsmheader">PREMIOS</div>
+    <ul>
+		<li><a href="/es/awards.php?award_id=goya&amp;year=2012">Goya 2012 (nom.)</a></li>
+        <li><a href="/es/awards.php?award_id=academy_awards&year=2011">Oscars 2011</a></li>
+        <li><a href="/es/awards.php?award_id=cannes&year=2011">Cannes 2011</a></li>
+        <li><a href="/es/oscar_data.php">Todos los Oscars</a></li>
+    </ul>
+
+    <div class="lsmheader">INFORMACI&Oacute;N</div>
+    <ul>
+        <li><a href="/es/listsrank.php">Ranking de listas</a></li>
+        <li><a href="/es/new_stuff.php">&Uacute;ltimas mejoras</a></li>
+        <li><a href="/es/meetus.php">Qui&eacute;nes somos</a></li>
+        <li><a href="/es/contact_us.php">Contacto</a></li>
+    </ul>
+
+</div>
+
+
+
+      </td>
+      <td style="vertical-align: top; padding:5px 8px 30px 5px;">
+<div style="margin-bottom: 4px; padding:1px; text-align: left; border-bottom: 1px solid #555555;"><span style="color:#555555; font-size:16px; font-weight: bold;">Resultados por título</span></div><div style="text-align:right;"><strong>2</strong> resultados.</div>
+<div style="text-align: left;">
+
+<div style="margin: 5px 0; padding: 5px 3px; background-color:#f0f0f0; width: auto;">
+<style>
+    .director a:link, .director a:hover, .director a:visited { color: #666; text-decoration: none;}
+    .cast a:link, .cast a:hover, .cast a:visited { color: inherit;  text-decoration: none; font-size: 10px;}
+</style>
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film907984.html"><img src="http://pics.filmaffinity.com/Infiltrados_en_clase-907984-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+     <b><a href="/es/film907984.html">Infiltrados en clase</a></b>  (2012)   <img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td><img src="http://www.filmaffinity.com/imgs/ratings/7.gif" border="0" alt="Buena" width="112" height="11"></td></tr>
+<tr><td><span class="director"><b><a href="/es/search.php?stype=director&stext=Philip+Lord">Philip Lord</a>, <a href="/es/search.php?stype=director&stext=Chris+Miller"> Chris Miller</a></b></span></td></tr>
+<tr><td><div class="cast"><a href="/es/search.php?stype=cast&stext=Jonah+Hill">Jonah Hill</a>, <a href="/es/search.php?stype=cast&stext=Channing+Tatum"> Channing Tatum</a>, <a href="/es/search.php?stype=cast&stext=Ellie+Kemper"> Ellie Kemper</a>, <a href="/es/search.php?stype=cast&stext=Ice+Cube"> Ice Cube</a>, <a href="/es/search.php?stype=cast&stext=Brie+Larson"> Brie Larson</a>, <a href="/es/search.php?stype=cast&stext=Rob+Riggle"> Rob Riggle</a>, <a href="/es/search.php?stype=cast&stext=DeRay+Davis"> DeRay Davis</a>, <a href="/es/search.php?stype=cast&stext=Dave+Franco"> Dave Franco</a>, <a href="/es/search.php?stype=cast&stext=Jake+Johnson"> Jake Johnson</a>, <a href="/es/search.php?stype=cast&stext=Johnny+Depp"> Johnny Depp</a></div></td></tr>
+</table>
+</td></tr></table></div>
+<div style="margin: 5px 0; padding: 5px 3px; background-color:#f0f0f0; width: auto;">
+<style>
+    .director a:link, .director a:hover, .director a:visited { color: #666; text-decoration: none;}
+    .cast a:link, .cast a:hover, .cast a:visited { color: inherit;  text-decoration: none; font-size: 10px;}
+</style>
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr>
+<td width="60" align="center" valign="top"><a href="/es/film518309.html"><img src="http://pics.filmaffinity.com/Infiltrados-518309-small.jpg" border="0"></a></td><td valign="top">
+<table width="100%" border="0" cellpadding="1" cellspacing="0"><tr><td>
+     <b><a href="/es/film518309.html">Infiltrados</a></b>  (2006)   <img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"></td></tr>
+<tr><td><img src="http://www.filmaffinity.com/imgs/ratings/8.gif" border="0" alt="Notable" width="112" height="11"></td></tr>
+<tr><td><span class="director"><b><a href="/es/search.php?stype=director&stext=Martin+Scorsese">Martin Scorsese</a></b></span></td></tr>
+<tr><td><div class="cast"><a href="/es/search.php?stype=cast&stext=Leonardo+DiCaprio">Leonardo DiCaprio</a>, <a href="/es/search.php?stype=cast&stext=Matt+Damon"> Matt Damon</a>, <a href="/es/search.php?stype=cast&stext=Jack+Nicholson"> Jack Nicholson</a>, <a href="/es/search.php?stype=cast&stext=Mark+Wahlberg"> Mark Wahlberg</a>, <a href="/es/search.php?stype=cast&stext=Vera+Farmiga"> Vera Farmiga</a>, <a href="/es/search.php?stype=cast&stext=Alec+Baldwin"> Alec Baldwin</a>, <a href="/es/search.php?stype=cast&stext=Martin+Sheen"> Martin Sheen</a>, <a href="/es/search.php?stype=cast&stext=Ray+Winstone"> Ray Winstone</a>, <a href="/es/search.php?stype=cast&stext=Kevin+Corrigan"> Kevin Corrigan</a>, <a href="/es/search.php?stype=cast&stext=James+Badge+Dale"> James Badge Dale</a></div></td></tr>
+</table>
+</td></tr></table></div>
+
+</div>
+
+<br><br><div style="margin-bottom: 4px; padding:1px; text-align: left; border-bottom: 1px solid #555555;"><span style="color:#555555; font-size:16px; font-weight: bold;">Resultados por director</span></div><div style="text-align:right;"><strong>0</strong> resultados.</div>
+<div style="text-align: left;">
+
+
+</div>
+
+<br><br><div style="margin-bottom: 4px; padding:1px; text-align: left; border-bottom: 1px solid #555555;"><span style="color:#555555; font-size:16px; font-weight: bold;">Resultados por reparto</span></div><div style="text-align:right;"><strong>0</strong> resultados.</div>
+<div style="text-align: left;">
+
+
+</div>
+
+<div style="text-align:right; padding: 12; margin: 40 4 10 4; border-top: 1px #dddddd solid">Si no encuentras lo que buscas, inténtalo con el <a href="/es/globalsearch.php?cx=008177178803676006601%3Amrme5orikjy&cof=FORID%3A9&q=infiltrados&ie=latin1">buscador global</a></div>
+              </td>
+    <tr>
+</table>
+</div>
+
+<div id="bpanel">
+<div style="text-align:center; padding: 2px">
+       <a href="javascript:window.external.AddFavorite('http://www.filmaffinity.com','FilmAffinity')">A&ntilde;ade FA a tus webs favoritas</a>
+     | <a href="http://www.facebook.com/FilmAffinity" target="_blank">FA en el Facebook</a>
+     | <a href="/es/recommendus.php">Recomienda FA a tus amigos/as</a>
+     | <a href="/es/faq.php">Preguntas m&aacute;s frecuentes</a>
+     | <a href="/es/private.php" >Politica de privacidad</a>
+</div>
+<div style="text-align:center; padding: 5px 2px 2px">
+    <span class="subtext">&copy; 2002-2011 Filmaffinity - Movieaffinity &nbsp; Todos los derechos reservados.</span>
+</div>
+</div>
+
+</body>
+</html>

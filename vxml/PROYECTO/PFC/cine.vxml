@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<vxml version="2.0" xmlns="http://www.w3.org/2001/vxml" xmlns:voxeo="http://community.voxeo.com/xmlns/vxml"  xml:lang="es-MX"> 
+<property name="voicename" value="es-mx-fm3"/> 
+<menu>
+	<prompt>
+		Bienvenido al sistema de Cine por teléfono. Para busqueda por actor pulse 1, para busqueda por director pulse 2, 
+		para busqueda por genero pulse 3, para busqueda por decada pulse 4.
+	</prompt>
+	
+	<grammar src="number.grxml#number"/>
+	
+	<choice dtmf="1" next="actor.vxml"/>
+	<choice dtmf="2" next="director.vxml"/>
+	<choice dtmf="3" next="genero.vxml"/>
+	<choice dtmf="4" next="decada.vxml"/> 
+</menu>
+</vxml>

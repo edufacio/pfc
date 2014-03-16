@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:vxml="http://www.w3.org/2001/vxml"
+      xmlns:ev="http://www.w3.org/2001/xml-events"
+      xmlns:xv="http://www.voicexml.org/2002/xhtml+voice">
+
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+  <meta name="description" content="description"/>
+  <meta name="keywords" content="keywords"/> 
+  <meta name="author" content="author"/> 
+  <link rel="stylesheet" type="text/css" href="default.css" media="screen"/>
+    <title>Subjects Information in the UC3M</title>
+    <style>
+      body { font-family: arial; sans-serif;
+             color: #005588;
+             background-color: #eeeecc }
+      input.button { color: #005588;
+             background-color: #eeeebb; }
+    </style>
+                                                 -->
+  
+    <vxml:form id="getMessageInfo">
+ 
+    <vxml:block>Use this page to consult the information of a specific subject.</vxml:block>
+
+
+     
+       <vxml:field xv:id="subject" name="subject">
+      <vxml:prompt>Tell me the name of the subject you want to know information</vxml:prompt>
+      <vxml:grammar><![CDATA[
+        #JSGF V1.0;
+        grammar subjects;
+        public <subjects> = Engineering Mathematics | Artificial intelligence | Engineering Physics | Linear algebra | Files and Database systems | 
+		Operating systems | Programming fundamentals | Statistics | Business Management | Computer audit | Security and data protection | Industrial Automation |
+		Electric Machines | Telematics | Data Transmission| information systems | Business Administration | Microprocessors | Opera | blue house;]]>
+      </vxml:grammar>
+	  <vxml:nomatch>
+	  <vxml:prompt>Please repeat again, I can not understand you.</vxml:prompt>
+	  </vxml:nomatch>
+     </vxml:field> 
+      
+  
+      <vxml:filled mode="all">
+        <vxml:prompt> Ok got them. </vxml:prompt>
+        <assign name="window.location" expr="'subjectinfo.php?subject='+ subject"/>
+      </vxml:filled>
+    </vxml:form>
+    
+  
+  
+    <!--                                                                 -->
+    <!-- Synchronize the data - when a Voice field is filled in, then    -->
+    <!-- the corresponding XHTML field is filled in and vice versa.      -->
+    <!--                                                                 -->
+  
+    
+    <xv:cancel id="voice_cancel"/>
+    <xv:sync xv:input="visualsubject" xv:field="#subject"/>
+
+ <script id="scriptStuff" language="JavaScript">
+  
+      <![CDATA[
+  
+      
+   
+   
+      /*--------------------------------------------------------------------*/
+      /* Make sure I have all of the pieces needed to send a message, and   */
+      /* then call whatever helper function to send the message             */
+      /*--------------------------------------------------------------------*/
+      function SendMessage ( ) {
+        var subjectName;
+
+   
+        subjectName = document.doIt.visualsubject.value;
+        
+        if(subjectName == 'Engineering Mathematics') {
+		       window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/21813866.html';}	   
+		else if (subjectName=="Engineering Mathematics")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5211120.html';
+		} 
+		else if (subjectName=="Artificial intelligence")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210028.html';
+		} 
+		else if (subjectName=="Engineering Physics")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210649.html';
+		} 
+		else if (subjectName=="Linear algebra")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/1311304.html';
+		} 
+		else if (subjectName=="Files and Database systems")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210018.html';
+		} 
+		else if (subjectName=="Operating systems")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210017.html';
+		} 
+		else if (subjectName=="Programming fundamentals")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210650.html';
+		} 
+		else if (subjectName=="Statistics")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210656.html';
+		} 
+		else if (subjectName=="Business Management")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210671.html';
+		} 
+		else if (subjectName=="Computer audit")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210661.html';
+		}
+		else if (subjectName=="Security and data protection")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_1/5210027.html';
+		}
+		else if (subjectName=="Industrial Automation")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0410053.html';
+		}
+		else if (subjectName=="Electric Machines")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0410953.html';
+		}
+		else if (subjectName=="Telematics")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0710690.html';
+		}
+		else if (subjectName=="Data Transmission")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0710703.html';
+		}
+		else if (subjectName=="Information Systems")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0710919.html';
+		}
+		else if (subjectName=="Optical Communications")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0710706.html';
+		}
+		else if (subjectName=="Business Administration")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0710736.html';
+		}
+		else if (subjectName=="Microprocessors")
+		{
+		window.location = 'http://www3.uc3m.es/reina/Fichas/fichas_2/0710700.html';
+		}  
+        return ( false );
+      }
+  
+      ]]>
+    </script>
+
+    <!--                                                                 -->
+    <!-- A handler that catches the vxmldone event (send to the document -->
+    <!-- body and kicks off the SendMessage ( ) function.                -->
+
+    <script id="doneHandler" declare="declare"
+            ev:event="vxmldone" ev:observer="documentBody">
+      SendMessage ( );
+    </script>
+
+  </head>
+  
+  
+
+
+  <!--                                                                 -->
+  <!-- Document body - it contains the forms that get filled in by     -->
+  <!-- the user (voice or mouse/kbd) and by the scripts above when     -->
+  <!-- sending messages.                                               -->
+  <!--                                                                 -->
+
+  <body id="documentBody" ev:event="load" ev:handler="#getMessageInfo">
+  <div class="main-left">
+	
+	<div class="header">
+		<h2><span>20 aniversario UC3M</span></h2>
+		<h1>Carlos III University</h1>
+	</div>
+
+  
+	<div class="content">
+    <a>SUBJECTS INFORMATION</a><br /><br />
+	<h5>In this section you can consult information of the different subjects taught in the different degrees from the Carlos III University.
+	This information is grouped in differents parts such as subject teachers, course objectives, evaluation method, the subject programme, bibliography and practical sessions.<br />
+	The information can be very useful for both students and faculty, but we must remember that it is a guide.</h5><br />
+
+	<h5>Select one of the following subjects:</h5><br />
+	
+
+    <form name="doIt" method="get" action="subjectsinfo.php">
+     
+      <select name="visualsubject" id="visualsubject">
+	    <option value ="Engineering Mathematics">Engineering Mathematics</option>
+	    <option value ="Artificial intelligence">Artificial intelligence</option>
+	    <option value ="Engineering Physics">Engineering Physics</option>
+	    <option value ="Linear algebra">Linear algebra</option>
+	    <option value ="Files and Database systems">Files and Database systems</option>  
+	    <option value ="Operating systems">Operating systems</option>
+	    <option value ="Programming fundamentals">Programming fundamentals</option>
+	    <option value ="Statistics">Statistics</option>
+	    <option value ="Business Management">Business Management</option>
+	    <option value ="Computer audit">Computer audit</option>
+		<option value ="Security and data protection">Security and data protection</option>
+		<option value ="Industrial Automation">Industrial Automation</option>
+		<option value ="Electric Machines">Electric Machines</option>
+		<option value ="Telematics">Telematics</option>
+		<option value ="Data Transmission">Data Transmission</option>
+		<option value ="Information Systems">Information Systems</option>
+		<option value ="Business Administration">Business Administration</option>
+		<option value ="Microprocessors">Microprocessors</option>
+		
+      </select>
+      
+
+      
+ 
+    </form>
+ 
+
+ 
+    <!-- This is the submit button.  For some reason, it stopped receiving -->
+    <!-- events after adding the "+V" parts of the code - it works outside -->
+    <!-- the form, so that's where I'll leave it.                          -->
+ </div>
+  </div>
+  <div class="main-left">
+     <h5> <input type="button" value="Enviar" class="button"
+           onclick="SendMessage()"/></h5>
+    </div>
+  
+<!-- Parte comun para todas las páginas -->
+  <div class="nav">
+	
+	<div class="logo"><span></span></div>
+
+	<ul>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="index.html">Degree</a></li>
+		<li><a href="index.html">Suggestions</a></li>
+		<li><a href="index.html">Your opinion</a></li>
+		<li><a href="index.html">About us</a></li>
+		<li><a href="index.html">Survey about Opera X+V</a></li>
+	</ul>
+
+</div>
+
+<div class="main-right">
+
+	<div class="round">		
+		<div class="roundtl"><span></span></div>
+		<div class="roundtr"><span></span></div>
+		<div class="clearer"><span></span></div>
+	</div>
+
+	<div class="subnav">
+
+		<h1>About us</h1>
+		<ul>
+			<li><a href="index.html">Telephone</a></li>
+			<li><a href="index.html">Email</a></li>
+			<li><a href="index.html">Map</a></li>
+		</ul>
+		<h1>Legal Terms</h1>
+		<h1>Copyright</h1>
+		<h1>Site Map</h1>
+		
+	</div>
+
+	<div class="round">
+		<div class="roundbl"><span></span></div>
+		<div class="roundbr"><span></span></div>
+		<span class="clearer"></span>
+	</div>
+
+</div>
+ 
+<!-- Parte comun para todas las páginas --> 
+  
+  </body>
+
+</html>
+</span></div>
+	</div>
+
+	<div class="subnav">
+
+		<h1>Ab

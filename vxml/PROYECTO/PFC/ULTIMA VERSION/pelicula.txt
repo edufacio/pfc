@@ -1,0 +1,431 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Alfombras mágicas (1979) - FilmAffinity</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="description" content="Alfombras mágicas dirigida por Kevin Connor y protagonizada por Christopher Lee, Milo O'Shea, Oliver Tobias, Peter Cushing, Mickey Rooney, Emma Samms, Puneet Sira, Capucine, John Wyman, John Ratzenberger, Shane Rimmer" />
+<meta name="keywords" content="movie, Alfombras mágicas, Kevin Connor, Christopher Lee, Milo O'Shea, Oliver Tobias, Peter Cushing, Mickey Rooney, Emma Samms, Puneet Sira, Capucine, John Wyman, John Ratzenberger, Shane Rimmer" />
+<link href="/style/main_es.css" rel="stylesheet" type="text/css" />
+<link href="/style/jquery/prettyPhoto_main.css" rel="stylesheet" type="text/css" />
+<link href="/style/share.css" rel="stylesheet" type="text/css" />
+<link href="/style/history.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery/plugin/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="/js/jquery/plugin/foto2.js"></script>
+<script type="text/javascript" src="/js/local_es.js"></script>
+<script type="text/javascript" src="/js/rating.js?170908"></script>
+<script language="JavaScript" type="text/javascript">
+</script>
+<style>
+.ot{width:1002px;}
+</style>
+</head><body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0  onload="ol()">
+
+
+<div style="background: #415570 url('/images2/fondo3.png') repeat-x left top;">
+<div>
+
+    <div class="cpanel" style="height:56px; position: relative;">
+        <div id="fa-info">
+            Estamos trabajando en el redise&ntilde;o de la p&aacute;gina
+        </div>
+        <div style="float:left; padding-top: 10px;">
+            <a href="/es/main.html"><img src="/images2/logo.png"></a>
+        </div>
+
+        <div id="topsearch">
+            <form action="/es/search.php" method="get">
+                <input type="text" name="stext" size="20" value="">
+                <select name="stype">
+                    <option value="all">Todas</option>
+                    <option value="title">T&iacute;tulo</option>
+                    <option value="director">Director</option>
+                    <option value="cast">Reparto</option>
+                </select>
+                <input type="submit" value="Buscar" style="width: 50px">
+            </form>
+            <div class="advsearch"><a href="/es/advsearch.php">B&uacute;squeda avanzada</a></div>
+        </div>
+    </div>
+
+    <div class="cpanel" style="padding: 2px; clear: both; height:18px;">
+        <ul id="trmenu">
+                    <li><a href="/es/topgen.php?nodoc=1">Top FA</a></li>
+            <li><a href="/es/imlost.php">Pasos</a></li>
+            <li><a href="/es/tours.php">Tours</a></li>
+            <li><a href="/es/main.html">Home</a></li>
+            <li><a href="http://www.filmaffinity.com/en/main.html">ENGLISH</a></li>
+        </ul>
+
+      <span style="color: #FFCC00">Tu p&aacute;gina de cine</span>
+    </div>
+
+    <div class="cpanel" style="padding: 2px;  text-align:center; clear: both; height:18px;">
+        <ul id="awardsmenu">
+            <li><a href="/es/best_2011.php">Resumen del 2011</a></li>
+            <li><a href="/es/awards.php?award_id=academy_awards&year=2012">OSCARS 2012 (n)</a></li>
+			<li><a href="/es/awards.php?award_id=cesar&year=2012">C&eacute;sar (n)</a></li>
+            <li><a href="/es/awards.php?award_id=sundance&year=2012">Sundance</a></li>
+            <li><a href="/es/awards.php?award_id=bafta&year=2012">Bafta (n)</a></li>
+            <li><a href="/es/awards.php?award_id=goldenglobes&year=2012">Globos de Oro</a></li>
+            <li><a href="/es/awards.php?award_id=critics_choice_awards&year=2011">Critics Choice</a></li>
+            <li><a href="/es/awards.php?award_id=goya&year=2012">Goya (n)</a></li>
+            <li><a href="/es/awards.php?award_id=european&year=2011">P. Cine Europeo</a></li>
+            <li><a href="/es/awards.php?award_id=nbr&year=2011">NBR</a></li>
+            <li><a href="/es/awards.php?award_id=emmy&year=2011">Emmy</a></li>
+            <li><a href="/es/awards.php?award_id=cannes&year=2011">Cannes</a></li>
+            <li><a href="/es/oscar_data.php">OSCARS</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+
+
+
+
+<div class="cpanel" style="margin-top: 10px; margin-bottom: 10px; text-align: center;">
+
+<script language="javascript" type="text/javascript">
+var agm_site="adconion.filmaffinity.es";
+var agm_sz="980x90,728x90";
+var agm_zona="resto";
+var agm_resolw=window.screen.availWidth;
+var agm_resolh=window.screen.availHeight;
+agm_timestamp = window.agm_timestamp || Math.floor(Math.random()*1E16);
+if(typeof(agm_interstitial)=="undefined"){var agm_interstitial="dcopt=ist;"}else{var agm_interstitial=""}
+if(typeof(agm_tilecat)=="undefined"){var agm_tilecat=1}else{agm_tilecat++}
+document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://ad.es.doubleclick.net/adj/'+agm_site+'/'+agm_zona+';resw='+agm_resolw+';resh='+agm_resolh+';'+agm_interstitial+'tile='+agm_tilecat+';sz='+agm_sz+';ord='+agm_timestamp+'?"><\/scr'+'ipt>');
+</script>
+</div>
+
+
+
+
+<div class="cpanel" style="border: 1px solid #415570;">
+  <table style="width:100%; background: #ffffff; border-collapse:collapse; border-spacing:0;">
+    <tr>
+      <td style="vertical-align: top; background: #415570; width:150px;">
+        <style>
+#lsmenu {}
+#lsmenu .lsmheader {font-weight: bold;  font-size: 12px; padding: 6px 2px 0px 3px; color: #fff;}
+#lsmenu ul {list-style:none; margin:0; padding:0 2px 4px 2px; }
+#lsmenu li {margin:0; padding: 2px 1px 3px 1px; font-size: 11px;}
+#lsmenu li a:link, #lsmenu li a:hover, #lsmenu li a:visited {color: #eee; text-decoration:none; font-size: 11px; display:block; padding: 1px 1px 1px 8px;}
+#lsmenu li a:hover {color: #000; background:#ddd;}
+
+.admheader {background-color: #33606D; font-weight: bold; font-style: italic; font-size: 12px; padding: 6px 2px 0px 3px; color: #fff;}
+#admmenu { background-color: #33606D; color: #000; font-weight: bold;}
+#admmenu ul {list-style:none; margin:0; padding:0 2px 4px 2px; }
+#admmenu li {margin:0; padding: 2px 1px 3px 1px; font-size: 11px;}
+#admmenu li a:link, #admmenu li a:visited, #admmenu li a:hover{ color: #eee; text-decoration:none; font-size: 10px; display:block; padding: 1px 1px 1px 8px; font-weight: normal;}
+#admmenu li a:hover{color: #000; background:#ddd;}
+</style>
+<div id="lsmenu">
+        <div class="lsmheader">USUARIOS</div>
+    <ul>
+        <li><a href="/es/tours.php">Votar los tours</a></li>
+        <li><a href="/es/login.php">Entrada usuarios</a></li>
+        <li><a href="/es/register.php">Registrarse</a></li>
+    </ul>
+    <div class="lsmheader">ESPA&Ntilde;A</div>
+    <ul>
+        <li><a href="/es/cat_new_th_es.html">Pel&iacute;culas en cartelera</a></li>
+        <li><a href="/es/cityTheaters.php">Cines Espa&ntilde;a</a></li>        <li><a href="/es/rdcat.php?id=upc_th_es">Pr&oacute;ximos estrenos</a></li>
+        <li><a href="/es/cat_new_sa_es.html">Estrenos DVD venta</a></li>
+        <li><a href="/es/rdcat.php?id=upc_sa_es">Pr&oacute;ximos DVD venta</a></li>
+        <li><a href="/es/cat_new_fin_es.html">Por fin en DVD</a></li>
+        <li><a href="/es/cat_new_re_es.html">Ya para alquilar</a></li>
+        <li><a href="/es/rdcat.php?id=upc_re_es">Pr&oacute;ximamente alquiler</a></li>
+    </ul>
+
+    <div class="lsmheader">USA - GB - FR</div>
+    <ul>
+        <li><a href="/es/cat_new_th_us.html">Estrenos USA</a></li>
+        <li><a href="/es/cat_ESTR_UK.html">Estrenos Reino Unido</a></li>
+        <li><a href="/es/cat_estr_fr.html">Estrenos Francia</a></li>
+        <li><a href="/es/cat_DVD_VID_US.html">DVD/Video USA</a></li>
+    </ul>
+
+
+    <div class="lsmheader">SECCIONES</div>
+    <ul>
+        <li><a href="/es/boxoffice.php">Taquilla</a></li>
+        <li><a href="/es/trailers.php">Trailers</a></li>
+        <li><a href="/es/latestevideos.php">&Uacute;ltimos trailers</a></li>
+        <li><a href="/es/latestreviews.php">&Uacute;ltimas cr&iacute;ticas</a></li>
+        <li><a href="/es/allfilms.html">Todas las pel&iacute;culas</a></li>
+        <li><a href="/es/topics.php">Pel&iacute;culas por temas</a></li>
+    </ul>
+
+    <div class="lsmheader">TOPs</div>
+    <ul>
+        <li><a href="/es/topgen.php?nodoc=1">TOP Filmaffinity</a></li>
+        <li><a href="/es/topcat_new_th_es.html">TOP Estrenos</a></li>
+        <li><a href="/es/topcat_new_sa_es.html">TOP estrenos DVD</a></li>
+    </ul>
+
+    <div class="lsmheader">PREMIOS</div>
+    <ul>
+		<li><a href="/es/awards.php?award_id=goya&amp;year=2012">Goya 2012 (nom.)</a></li>
+        <li><a href="/es/awards.php?award_id=academy_awards&year=2011">Oscars 2011</a></li>
+        <li><a href="/es/awards.php?award_id=cannes&year=2011">Cannes 2011</a></li>
+        <li><a href="/es/oscar_data.php">Todos los Oscars</a></li>
+    </ul>
+
+    <div class="lsmheader">INFORMACI&Oacute;N</div>
+    <ul>
+        <li><a href="/es/listsrank.php">Ranking de listas</a></li>
+        <li><a href="/es/new_stuff.php">&Uacute;ltimas mejoras</a></li>
+        <li><a href="/es/meetus.php">Qui&eacute;nes somos</a></li>
+        <li><a href="/es/contact_us.php">Contacto</a></li>
+    </ul>
+
+</div>
+
+
+
+      </td>
+      <td style="vertical-align: top; padding:5px 8px 30px 5px;">
+<style>
+#mcardtable th {text-align: right; font-weight:bold; white-space:nowrap;}
+#mcardtable th, #mcardtable td {padding: 3px; vertical-align:baseline; font-size:8pt;}
+#mcardtable img {vertical-align: text-top;}
+</style>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js">
+  {lang: 'es'}
+</script>
+<div style="text-align:right">
+<div style="margin-bottom: 4px; padding:1px; text-align: left; border-bottom: 1px solid #990000;"><span style="color:#990000; font-size:16px; font-weight: bold;"><img src="http://www.filmaffinity.com/images/movie.gif" border="0"> Alfombras mágicas</span></div></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="text-align:left;">
+  <tr>
+    <td valign="top">
+
+<table id="mcardtable" valign="baseline" width="100%" border="0" cellpadding="2" cellspacing="2">
+  <tr>
+    <th>T&Iacute;TULO ORIGINAL</th>
+    <td><strong>Arabian Adventure</strong></td>
+  </tr>
+  <tr>
+    <th>A&Ntilde;O</th>
+    <td>
+            1979    </td>
+  </tr>
+  <tr>
+    <th>DURACI&Oacute;N</th>
+    <td>
+        <div style="float:right">
+          <a href="http://www.filmaffinity.com/es/evideos.php?movie_id=333672">Trailers/Vídeos</a>
+      </div>
+      98 min.
+    </td>
+  </tr>
+  <tr>
+    <th valign="baseline" align="right" ><b>PA&Iacute;S</th>
+    <td>
+            <img src="/imgs/countries/GB.jpg" title="Reino Unido" border="0" align="middle">    </td>
+  </tr>
+  <tr>
+    <th>DIRECTOR</th>
+    <td><a href="http://www.filmaffinity.com/es/search.php?stype=director&stext=Kevin+Connor">Kevin Connor</a></td>
+  </tr>
+  <tr>
+    <th>GUI&Oacute;N</th>
+    <td>Brian Hayles</td>
+  </tr>
+  <tr>
+    <th>M&Uacute;SICA</th>
+    <td>Ken Thorne</td>
+  </tr>
+  <tr>
+    <th>FOTOGRAF&Iacute;A</th>
+    <td>Alan Hume</td>
+  </tr>
+  <tr>
+    <th>REPARTO</th>
+    <td><a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Christopher+Lee">Christopher Lee</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Milo+O%27Shea"> Milo O'Shea</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Oliver+Tobias"> Oliver Tobias</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Peter+Cushing"> Peter Cushing</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Mickey+Rooney"> Mickey Rooney</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Emma+Samms"> Emma Samms</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Puneet+Sira"> Puneet Sira</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Capucine"> Capucine</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=John+Wyman"> John Wyman</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=John+Ratzenberger"> John Ratzenberger</a>, <a href="http://www.filmaffinity.com/es/search.php?stype=cast&stext=Shane+Rimmer"> Shane Rimmer</a></td>
+  </tr>
+  <tr>
+    <th>PRODUCTORA</th>
+    <td>Badger Films / EMI Films</td>
+  </tr>
+  <tr>
+    <th>G&Eacute;NERO</th>
+    <td>
+      <a href="http://www.filmaffinity.com/es/moviegenre.php?genre=AV&attr=rat_count" style="text-decoration:none">Aventuras</a>.      <a href="http://www.filmaffinity.com/es/moviegenre.php?genre=FAN&attr=rat_count" style="text-decoration:none">Fantástico</a>    </td>
+  </tr>
+  <tr>
+    <th>SINOPSIS</th>
+    <td>Alquazar, dictador de Jadur, ofrece al Príncipe Hasan la mano de su hija, a condición que le traiga una rosa sagrada de la isla de Elil. Hasan parte hacia allí sobre una alfombra mágica acompañado de Kaseem, el subalterno de Alquazar, y un muchacho huérfano, Majeed, que posee un zafiro mágico. Al llegar a la isla tendrán que enfrentarse a todo tipo de peligros... (FILMAFFINITY)</td>
+  </tr>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><a name="myreview"></a>
+<div style="border-bottom: 1px solid #a1a5a9;"><b>TU CRÍTICA</b></div>	<div style="margin-top: 4px">
+		Puedes hacer una crítica de esta película para que el resto de los usuarios la pueda leer.
+		<a href="/es/addreview.php?movie_id=333672">Añade tu crítica</a>
+	</div>
+         
+</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><div style="border-bottom: 1px solid #a1a5a9;"><b>CRÍTICAS DE LOS USUARIOS</b></div>	<div style="margin-top: 4px">
+		Hay <b>1</b> críticas de los usuarios para esta película: 
+		
+		<a href="/es/reviews/1/333672.html">Ver todas</a> | 
+		<a href="/es/reviews2/1/333672.html">Ver por títulos</a>
+	</div>
+</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><table class="list" width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr bgcolor="#f4f4bb">
+		<td width="100%" colspan="3"><span style="color:#606020"><b>Votaciones de tus Almas Gemelas (Personas con las que tienes mayor afinidad):</b></span></td>
+	</tr>
+	<tr><td colspan="3"><a href="/es/reg.php">Regístrate</a> y podrás acceder a recomendaciones personalizadas según tus gustos de cine</td></tr>
+	<tr><td colspan="3">&nbsp</td></tr>
+</table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+<table class="list" width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr bgcolor="#DBEAF5">
+		<td colspan="3"><span style="color:#406080"><b>Votaciones de tus Amigos:</b></span></td>
+	</tr>
+	<tr><td colspan="3"><a href="/es/reg.php">Regístrate</a> y podrás acceder a todas las votaciones de tus amigos, familiares, etc.</td></tr>
+	<tr><td colspan="3"> </td></tr>
+</table>
+    </td>
+  </tr>
+</table>
+
+    </td>
+    <td style="width:150px; vertical-align:top;">
+
+    <div style="text-align:center; border: 1px solid #ddddff; padding: 2px 1px">
+        <div><img src="http://pics.filmaffinity.com/Alfombras_magicas-333672-full.jpg"></div>
+        <div style="margin: 4px 0; color:#990000; font-size:22px; font-weight: bold;">5,4</div>
+        <div style="margin: 4px 0;"><img src="http://www.filmaffinity.com/imgs/ratings/5.gif" border="0" alt="Pasable" width="112" height="11"></div>
+        <div style="margin: 4px 0;"><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ WIDTH="100" HEIGHT="80" id="rats" ALIGN="">
+ <PARAM NAME=movie VALUE="/flash/rats.swf?rat10=0&rat9=2.2&rat8=4.5&rat7=13.6&rat6=29.5&rat5=25&rat4=15.9&rat3=6.8&rat2=0&rat1=2.2"> <PARAM NAME=menu VALUE=false> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFFFFF> <EMBED src="/flash/rats.swf?rat10=0&rat9=2.2&rat8=4.5&rat7=13.6&rat6=29.5&rat5=25&rat4=15.9&rat3=6.8&rat2=0&rat1=2.2" menu=false quality=high bgcolor=#FFFFFF  WIDTH="100" HEIGHT="80" NAME="rats" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+</OBJECT>
+
+
+</div>
+        <div style="margin: 4px 0;">44 votos</div>
+        <div style="margin: 4px 0;">1 <a href="http://www.filmaffinity.com/es/reviews/1/333672.html">crítica</a> - <a href="http://www.filmaffinity.com/es/reviews2/1/333672.html">por títulos</a></div>
+    </div>
+        <div style="text-align:center; border: 1px solid #ddddff; margin: 8px 0;">
+<div style="position:relative; text-align:center; padding: 4px 2px;">
+<div style="color:#003366; font-size:12px"><strong>TU VOTO</strong></div>
+
+  <div>Haz <a href="/es/login.php">login</a> para votar</div>
+</div>        </div>
+<style type="text/css">
+
+#main-title-theaters{ color:#003366; font-size:12px; font-weight:bold; padding-bottom:5px; text-align:center;}
+#container-st{ border:1px solid #DDDDFF; text-align:left; padding: 5px; font-size:10px; text-align: center;}
+#container-st a:link, #container-st a:visited, #container-st a:hover{ font-size:9px;text-decoration:none; }
+#theater-info{ padding-bottom: 10px; text-align:left;}
+#theater-info img{ float: left; padding-right: 5px;}
+#st-info{ border: 1px solid #6688AA; background-color:#dbeaf5; padding:4px 0; position:relative; text-align: left; clear:both;}
+#total-theaters{margin-left:2px;padding:1px; white-space:nowrap; }
+#st-info input{}
+#states{margin-left:2px;}
+#states select{ font-size:9px; width: 95px;}
+#submit-state{}
+
+</style>
+<script type="text/javascript">
+	$(document).ready(function(){
+		var total = ;
+		if(total == 0)
+		{
+			$("#states").remove();
+		}
+		else
+		{
+			$("#states").change(function(){
+				var value = $("#states option:selected").val();
+				window.location = "/es/cityTheaters.php?state=" + value + "&movie_id=" + 333672;
+			})
+		}
+		
+		$.getJSON("/es/states.php?movieId=" + 333672 + "", function(dates){
+						
+			$("#states").append("<select name=\"state\"></select><input type=\"submit\" value=\"ir\" />");
+			
+			var states = dates.states;
+			
+			for(i = 0; i < states.length; i++)
+			{
+				if(states[i] == dates.current_state)
+				{
+					$("#states select").append("<option selected>"+ states[i] +"</option>");
+				} 
+				else 
+				{
+					$("#states select").append("<option>"+ states[i] +"</option>");
+				}
+			}
+			
+		});
+	});
+</script>
+      <div style="margin: 8px 0; border: 1px solid #ddf; padding: 3px;">
+        <div style="color:#003366; font-size:12px; text-align:center;"><b>REDES SOCIALES</b></div>
+        <div style="margin: 5px;  text-align: center;">
+            <a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Compartir</a>
+            <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+        </div>
+        <div style="margin: 5px;  text-align: center;">
+          <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-lang="es">Tweet</a>
+          <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        </div>
+        <div style="margin: 5px;  text-align: center;"><g:plusone size="small"></g:plusone></div>
+      </div>
+
+      </td>
+    </tr>
+</table>
+<table style="border-bottom: 1px solid #003366" border="0" cellpadding="2" cellspacing="2">
+
+     
+    <tr>
+        <td class="subtext" align="center">(Si alguna sinopsis cuenta demasiados detalles del argumento -o para corregir errores o completar datos de la ficha- por favor
+        mándanos un <a href="/es/imsendmsg.php?to=985462">mensaje</a><br>
+            Si no estás registrado mándanos un email a info -arroba- filmaffinity -punto- com.)<p>
+Los derechos de propiedad intelectual de las críticas corresponden a los correspondientes críticos y/o medios de
+           comunicación de los que han sido extraidos. El copyright del poster, carátula, fotografías, sonido e imagen de cada DVD, tráiler y banda sonora pertenecen a las correspondientes productoras y distribuidoras.
+        </td>
+    </tr>
+</table>
+<br><br>
+              </td>
+    <tr>
+</table>
+</div>
+
+<div id="bpanel">
+<div style="text-align:center; padding: 2px">
+       <a href="javascript:window.external.AddFavorite('http://www.filmaffinity.com','FilmAffinity')">A&ntilde;ade FA a tus webs favoritas</a>
+     | <a href="http://www.facebook.com/FilmAffinity" target="_blank">FA en el Facebook</a>
+     | <a href="/es/recommendus.php">Recomienda FA a tus amigos/as</a>
+     | <a href="/es/faq.php">Preguntas m&aacute;s frecuentes</a>
+     | <a href="/es/private.php" >Politica de privacidad</a>
+</div>
+<div style="text-align:center; padding: 5px 2px 2px">
+    <span class="subtext">&copy; 2002-2011 Filmaffinity - Movieaffinity &nbsp; Todos los derechos reservados.</span>
+</div>
+</div>
+
+</body>
+</html>

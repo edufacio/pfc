@@ -1,0 +1,1273 @@
+<html>
+<head>
+<title>Cartelera España - FilmAffinity</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="description" content="Agua para elefantes, El sicario de Dios, Carta blanca, El último exorcismo, No lo llames amor... llámalo X, Rompecabezas, El padre de mis hijos, Thor, The Fast &amp; Furious 5 (A todo gas 5), The Company Men, ..." />
+<meta name="keywords" content="Agua para elefantes, El sicario de Dios, Carta blanca, El último exorcismo, No lo llames amor... llámalo X, Rompecabezas, El padre de mis hijos, Thor, The Fast &amp; Furious 5 (A todo gas 5), The Company Men, ..." />
+<link href="/style/main.css" rel="stylesheet" type="text/css" />
+<link href="/style/history.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/local_es.js"></script>
+<script language="JavaScript" type="text/javascript">
+</script>
+<style>
+.ot{width:1002px;}
+</style>
+
+</head>
+<body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0  onload="ol()">
+<table class="ot" border="0" cellpadding="0" cellspacing="0" >
+	<tr>
+		<td>
+<table width="100%" border="0"  cellpadding="0" cellspacing="0"><tr><td align="center">
+<script language="javascript" type="text/javascript">
+var agm_site="adconion.filmaffinity.es";
+var agm_sz="980x90,728x90";
+var agm_zona="cartelera";
+var agm_resolw=window.screen.availWidth;
+var agm_resolh=window.screen.availHeight;
+agm_timestamp = window.agm_timestamp || Math.floor(Math.random()*1E16);
+if(typeof(agm_interstitial)=="undefined"){var agm_interstitial="dcopt=ist;"}else{var agm_interstitial=""}
+if(typeof(agm_tilecat)=="undefined"){var agm_tilecat=1}else{agm_tilecat++}
+document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://ad.es.doubleclick.net/adj/'+agm_site+'/'+agm_zona+';resw='+agm_resolw+';resh='+agm_resolh+';'+agm_interstitial+'tile='+agm_tilecat+';sz='+agm_sz+';ord='+agm_timestamp+'?"><\/scr'+'ipt>');
+</script>
+</td></tr></table><table style="border-top: 1px solid #2F5983" bgcolor="#FFFFFF" width="100%" border="0"  cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+
+    <td width="100"><a href="/es/main.html"><img src="http://www.filmaffinity.com/images/final_logo_stars.gif"  alt="Home page" border="0"></a></td>
+    <td align="center" valign="middle"><a href="http://www.facebook.com/photo.php?fbid=10150117932759716&set=a.215526984715.133565.9086994715&comments" target="_BLANK"><img src="/images/top_mobile_promo_71.jpg" /></a>
+</td>
+        <td width="80" align="center" valign="middle"><a href="/en/main.html"><img src="http://www.filmaffinity.com/images/english.gif" alt="English language" border="0"></a></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+<table bgcolor="#003366" width="100%" border="0" cellpadding="1" cellspacing="2">
+  <tr>
+    <td  width="100%">
+      <span style="color: #FFCC00">Tu página de cine</span>
+    </td>
+       <td nowrap><a href="/es/imlost.php" class="lnktop">Pasos</a> <span style="color: #FFFFFF">| </span></td>
+    <td nowrap><a href="/es/tours.php" class="lnktop">Tours</a> <span style="color: #FFFFFF">| </span></td>
+
+    <td nowrap><a href="/es/main.html" class="lnktop">Home</a> <span style="color: #FFFFFF">| </span></td>
+    <td nowrap><a style="background-color:#FFCC00" href="http://www.filmaffinity.com/en/main.html" class="lnktop">ENGLISH</a></td>
+ </tr>
+</table>
+ </td>
+    </tr>
+    <tr>
+
+        <td style="padding-top: 1px;">
+            <div style="background-image: url('/images/gif/degradado4.jpg'); text-align:left; padding: 1px 0px 4px 0px; font-size:9px; color: #fff; position: relative;">
+                <span style="margin-right: 5px; padding: 2px; font-weight:bold; color:#FC0; text-decoration: none;">PREMIOS:</span>
+				<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=cannes&year=2011&cat_id=golden_palm">Festival de Cannes 2011</a></span>
+				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=tribeca&year=2011">Tribeca</a></span>
+				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=berlin&year=2011">Berlín</a></span>
+
+				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=sundance&year=2011">Sundance</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=academy_awards&year=2011">Oscars 2011</a></span>
+ 				|<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=cesar&year=2011">Cesar</a></span>
+                |<span style="margin: 0px 5px;"><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=bafta&year=2011">BAFTA</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=goya&year=2011">Goya</a></span>
+
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=spirit&year=2011">Spirit</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=razzie&year=2011">Razzie</a></span>
+                |<span style="margin: 0px 5px; "><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/awards.php?award_id=goldenglobes&year=2011">Globos de Oro</a></span>
+                |<span style="margin: 0px 5px;"><a style="font-size:10px; padding: 2px; font-weight:bold; color:#FFF; text-decoration: none;" href="/es/oscar_data.php">OSCARS</a></span>
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+		</td>
+	</tr>
+</table>
+
+
+<table class="ot"  border="0" cellpadding="0" cellspacing="0" >
+ <tr>
+  <td valign="top" width="150" >
+
+  	
+<table width="150" border="0" cellpadding="0" cellspacing="2"><tr><td><table  width="100%"  border="0" cellpadding="2" cellspacing="0">
+<form action="/es/search.php" method="get">
+	<tr>
+		<td class="menutitle">Buscador de películas</td>
+	</tr>
+	<tr>
+    <td class="menuitem" align="center"><input type="text" name="stext" style="width: 140px" size="20" value=""></td>
+	</tr>
+	<tr>
+
+   	<td class="menuitem" align="center">
+   		<select  name="stype" style="width: 90px">
+   		<option value="all">Todas</option>
+      <option value="title">Título</option>
+      <option value="director">Director</option>
+      <option value="cast">Reparto</option>
+      </select><input type="submit" value="Buscar" style="width: 50px">
+
+    </td>
+  </tr>
+	<tr>
+    <td class="menuitem">&nbsp;<a class="menulnk" href="/es/advsearch.php">Búsqueda avanzada</a></td>
+	</tr>
+</form>
+</table>
+</td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>USUARIOS</i></td><tr><td class="menu2"><a href="/es/tours.php">Votar los tours</a></td></tr><tr><td class="menu2"><a href="/es/login.php">Entrada usuarios</a></td></tr><tr><td class="menu2"><a href="/es/register.php">Reg&iacute;strate para poder votar pel&iacute;culas</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>ESPAÑA</i></td><tr><td class="menu"><a href="/es/cat_new_th_es.html">Películas en cartelera</a></td></tr><tr><td class="menu"><a href="/es/cityTheaters.php">Cines Espa&ntilde;a</a></td></tr><tr><td class="menu"><a href="/es/rdcat.php?id=upc_th_es">Próximos estrenos</a></td></tr><tr><td class="menu"><a href="/es/cat_new_sa_es.html">Estrenos DVD venta</a></td></tr><tr><td class="menu"><a href="/es/rdcat.php?id=upc_sa_es">Próximos DVD venta</a></td></tr><tr><td class="menu"><a href="/es/cat_new_fin_es.html">Por fin en DVD</a></td></tr><tr><td class="menu"><a href="/es/cat_new_re_es.html">Ya para alquilar</a></td></tr><tr><td class="menu"><a href="/es/rdcat.php?id=upc_re_es">Próximamente alquiler</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>USA - GB - FR</i></td><tr><td class="menu"><a href="/es/cat_new_th_us.html">Estrenos USA</a></td></tr><tr><td class="menu"><a href="/es/cat_ESTR_UK.html">Estrenos Reino Unido</a></td></tr><tr><td class="menu"><a href="/es/cat_estr_fr.html">Estrenos Francia</a></td></tr><tr><td class="menu"><a href="/es/cat_DVD_VID_US.html">DVD/Video USA</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>SECCIONES</i></td><tr><td class="menu"><a href="/es/boxoffice.php">Taquilla</a></td></tr><tr><td class="menu"><a href="/es/trailers.php">Trailers</a></td></tr><tr><td class="menu"><a href="/es/latestevideos.php">Últimos trailers en FA</a></td></tr><tr><td class="menu"><a href="/es/latestreviews.php">Últimas críticas en FA</a></td></tr><tr><td class="menu"><a href="/es/allfilms.html">Todas las películas (A-Z)</a></td></tr><tr><td class="menu"><a href="/es/topics.php">Topics: films por temas</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>TOPs</i></td><tr><td class="menu"><a href="/es/topgen.php">TOP FILMAFFINITY</a></td></tr><tr><td class="menu"><a href="/es/topcat_new_th_es.html">TOP Estrenos</a></td></tr><tr><td class="menu"><a href="/es/topcat_new_sa_es.html">TOP estrenos DVD</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>PREMIOS</i></td><tr><td class="menu"><a href="/es/awards.php?award_id=academy_awards&year=2011">Oscars 2011</a></td></tr><tr><td class="menu"><a href="/es/awards.php?award_id=goldenglobes&year=2011">Globos de Oro 2011</a></td></tr><tr><td class="menu"><a href="/es/awards.php?award_id=sundance&year=2011">Sundance 2011</a></td></tr><tr><td class="menu"><a href="/es/awards.php?award_id=goya&amp;year=2010">Goya 2011</a></td></tr><tr><td class="menu"><a href="/es/oscar_data.php">Todos los Oscars</a></td></tr></table></td></tr><tr><td><table class="menu" bgcolor="#ffffff"  width="150" border="0" cellpadding="0" cellspacing="0"><td class="menutitle"><i>INFORMACIÓN</i></td><tr><td class="menu"><a href="/es/imlost.php">Pasos a seguir</a></td></tr><tr><td class="menu"><a href="/es/lists_explanation.php">Sobre las listas</a></td></tr><tr><td class="menu"><a href="/es/listsrank.php">Ranking de listas</a></td></tr><tr><td class="menu"><a href="/es/new_stuff.php">Últimas mejoras FA</a></td></tr><tr><td class="menu"><a href="/es/meetus.php">Quiénes somos</a></td></tr><tr><td class="menu"><a href="/es/advertise.php">Publicidad</a></td></tr><tr><td class="menu"><a href="/es/contact_us.php">Contacto</a></td></tr></table></td></tr></table>
+
+  </td>
+  <td  valign="top" bgcolor="#ffffff">
+   <table width="100%" border="0" cellpadding="3" cellspacing="0">
+  	<tr>
+     <td align="center" width="100%">
+<div style="margin-bottom: 4; padding:1; text-align: center;"><span style="color:#dd8833; font-size:24; font-style: italic; font-weight: bold">CARTELERA ESPAÑA</span></div><div style="padding:1; text-align: left"><span style="color: #aaaaaa; font-size:14; font-style: italic;">Consulta todas las películas de esta categoría por ...</span></div>
+<div style="padding:2; text-align: left; background-color: #EEEEEE" >
+<span style="line-height: 1.5; padding:2; white-space:nowrap; background-color: #FFCC00"><b>Vista general</b></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="topcat.php?id=new_th_es"><b>Ver por votación</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="countcat.php?id=new_th_es"><b>Por n&ordm; de votos</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="catbygenre.php?id=new_th_es"><b>Por género</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="rdcat.php?id=new_th_es"><b>Por fecha lanzamiento</b></a></span> <span style="line-height: 1.5; padding:2; white-space:nowrap;"><a href="reccat.php?cat=new_th_es"><b>Recomendaciones</b></a></span> </div>
+
+<br>
+<table width="100%"  border="0" cellpadding="2" cellspacing="2" >
+  <tr>
+    <td valign="top" width="100%">
+<table width="100%"  border="0" cellpadding="5" cellspacing="3" >
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film934732.html">Agua para elefantes</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Francis Lawrence</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">Reese Witherspoon, Robert Pattinson, Christoph Waltz, James Frain, Hal Holbrook, Paul Schneider, Ken Foree, Tim Guinee</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film313449.html">El sicario de Dios</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Scott Stewart</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">Paul Bettany, Cam Gigandet, Maggie Q, Karl Urban, Lily Collins, Stephen Moyer, Mädchen Amick, Christopher Plummer</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film620534.html">Carta blanca</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Peter Farrelly, Robert Farrelly (AKA Bobby Farrelly)</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">Owen Wilson, Jason Sudeikis, Christina Applegate, Richard Jenkins, Jenna Fischer, Alyssa Milano, Nicky Whelan, Stephen Merchant</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film815141.html">El último exorcismo</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Daniel Stamm</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">Patrick Fabian, Ashley Bell, Iris Bahr, Louis Herthum, Tony Bentley, Jamie Alyson Caudle, Shanna Forrestall, Caleb Landry Jones</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film641747.html">No lo llames amor... llámalo X</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Oriol Capel</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">Paco León, Kira Miró, Mariano Peña, Julián López, Javier Gutiérrez, Sophie Evans, Ana María Polvorosa, Adriana Ozores</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/AR.jpg" title="Argentina" border="0" align="middle"> <b><a class="ntext" href="/es/film665311.html">Rompecabezas</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Natalia Smirnoff</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">María Onetto, Gabriel Goity, Arturo Goetz, Henny Trayles, Mirta Wons</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"> <b><a class="ntext" href="/es/film397003.html">El padre de mis hijos</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Mia Hansen-Løve</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">Chiara Caselli, Louis-Do de Lencquesaing, Alice de Lencquesaing, Michaël Abiteboul, Manelle Driss, Sandrine Dumas, Eric Elmosnino, Dominique Frot</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film358790.html">Thor</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Kenneth Branagh</b></span></td>	</tr>
+
+<tr><td><div style="font-size: 10px">Chris Hemsworth, Natalie Portman, Anthony Hopkins, Idris Elba, Colm Feore, Stellan Skarsgard, Rene Russo, Ray Stevenson</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film296319.html">The Fast &amp; Furious 5 (A todo gas 5)</a></b></td></tr>
+
+<tr><td><span style="font-size: 10px; color:#666666"><b>Justin Lin</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Vin Diesel,Paul Walker, Dwayne &quot;The Rock&quot; Johnson, Jordana Brewster, Tyrese Gibson, Elsa Pataky, Sung Kang, Matt Schulze</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film653077.html">The Company Men</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>John Wells</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Ben Affleck, Kevin Costner, Maria Bello, Tommy Lee Jones, Chris Cooper, Craig T. Nelson, Rosemarie DeWitt</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film331791.html">No tengas miedo</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Montxo Armendáriz</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Michelle Jenner, Lluís Homar, Belén Rueda, Nuria Gago, Rubén Ochandiano, Cristina Plazas, Javier Pereira, Irantzu Erro</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/JP.jpg" title="Japón" border="0" align="middle"> <b><a class="ntext" href="/es/film960593.html">Tokio Blues (Norwegian Wood)</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Tran Anh Hung</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Ken'ichi Matsuyama, Rinko Kikuchi, Tetsuji Tamayama, Kiko Mizuhara, Kengo Kora, Reika Kirishima</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/MX.jpg" title="México" border="0" align="middle"> <b><a class="ntext" href="/es/film638580.html">Año bisiesto</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Michael Rowe</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Mónica del Carmen, Gustavo Sánchez Parra, Armando Hernández, Diego Chas, Jaime Sierra, Marco Zapata</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film469884.html">El vuelo del tren</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Paco Torres</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Patricia García Méndez, Miriam García, Juan Motilla, Julio Jordán, Juan Martín, Viviane Araújo, María Alfonsa Rosso, Yailene Sierra</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"> <b><a class="ntext" href="/es/film219584.html">Bebés</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Thomas Balmes</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Documentary</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"> <b><a class="ntext" href="/es/film109583.html">La marca del ángel</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Safy Nebbou</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Catherine Frot, Sandrine Bonnaire, Wladimir Yordanoff, Antoine Chappey, Michel Aumont, Sophie Quinton, Michèle Moretti, Geneviève Rey-Penchenat</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/DE.jpg" title="Alemania" border="0" align="middle"> <b><a class="ntext" href="/es/film383978.html">El viaje de Jane</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Lorenz Knauer</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Documentary, Jane Goodall</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/AT.jpg" title="Austria" border="0" align="middle"> <b><a class="ntext" href="/es/film621094.html">Vamos a hacer dinero</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Erwin Wagenhofer</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Documentary</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film612858.html">Scream 4</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Wes Craven</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Neve Campbell, Courteney Cox, David Arquette, Emma Roberts, Marley Shelton, Hayden Panettiere, Adam Brody, Mary McDonnell</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film442163.html">Águila roja. La película</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>José Ramón Ayerra</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">David Janer, Javier Gutiérrez, Inma Cuesta, Martina Klein, Francis Lorenzo, Pepa Aniorte, Antonio Molero, Xabier Elorriaga</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/IT.jpg" title="Italia" border="0" align="middle"> <b><a class="ntext" href="/es/film362240.html">Perdona pero quiero casarme contigo</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Federico Moccia</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Raoul Bova, Michela Quattrociocche, Francesco Apolloni, Luca Angeletti, Cecilia Dazzi, Ignazio Oliva, Francesca Ferrazzo, Francesca Antonelli</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film197772.html">Winnie the Pooh</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Stephen J. Anderson, Don Hall</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Animation</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film695839.html">El amor y otras cosas imposibles</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Don Roos</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Natalie Portman, Scott Cohen, Lisa Kudrow, Lauren Ambrose, Charlie Tahan, Anthony Rapp, Daisy Tahan</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film547177.html">Country Strong</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Shana Feste</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Gwyneth Paltrow, Leighton Meester, Garrett Hedlund, Tim McGraw, Kayla Perkins, Sean Symons</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/IT.jpg" title="Italia" border="0" align="middle"> <b><a class="ntext" href="/es/film226296.html">No mires atrás</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Andrea Molaioli</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Toni Servillo, Denis Fasolo, Nello Mascia, Fausto Maria Sciarappa, Marco Baliani, Giulia Michelini, Franco Ravera, Sara D'Amario</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film513986.html">The Symmetry of Love </a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Aitor Gaizka</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Giles Alderson, Catherine Kenyon, Jemma Powell, Matthew Butler, Alix Wilton Regan, Luke de Lacey, Zafreen, Viola Newbury</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film320617.html">Escuchando al juez Garzón</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Isabel Coixet</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Documentary, Baltasar Garzón, Manuel Rivas</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film332725.html">Código Fuente</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Duncan Jones</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga, Jeffrey Wright, Russell Peters</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film872624.html">Caperucita Roja (¿A quién tienes miedo?)</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Catherine Hardwicke</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Amanda Seyfried, Shiloh Fernandez, Max Irons, Gary Oldman, Julie Christie, Virginia Madsen, Billy Burke, Lukas Haas</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"> <b><a class="ntext" href="/es/film699201.html">Carlos</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Olivier Assayas</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Édgar Ramírez, Fadi Abi Samra, Ahmad Kaabour, Christoph Bach, Rodney El Haddad, Julia Hummer, Alexander Scheer, Talal El-Jordi</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"> <b><a class="ntext" href="/es/film739250.html">Una dulce mentira</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Pierre Salvadori </b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Audrey Tautou, Nathalie Baye, Sami Bouajila, Stéphanie Lagarde, Daniel Duval, Judith Chemla, Cécile Boland, Didier Brice</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film604878.html">Hop</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Tim Hill</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Animation, James Marsden, Kaley Cuoco, Elizabeth Perkins</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film734689.html">Justin Bieber: Never Say Never</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jon Chu</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Documentary, Justin Bieber, Usher Raymond, Miley Cyrus, Ludacris, Shawn Stockman, Wanya Morris, Nathan Morris</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/BE.jpg" title="Bélgica" border="0" align="middle"> <b><a class="ntext" href="/es/film176979.html">Cartas a Dios</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Eric-Emmanuel Schmitt</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Michèle Laroque, Amir, Max von Sydow, Amira Casar, Mylène Demongeot, Constance Dollé, Simone-Elise Girard, Benoît Brière</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film323799.html">La legión del águila</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Kevin Macdonald</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Channing Tatum, Jamie Bell, Mark Strong, Donald Sutherland, Denis O'Hare, Tahar Rahim</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film628669.html">Sin límites</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Neil Burger</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Bradley Cooper, Abbie Cornish, Robert De Niro, Anna Friel, Andrew Howard, Johnny Whitworth, Robert John Burke, Tomas Arana</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film715316.html">Soy el número cuatro</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>D.J. Caruso</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Alex Pettyfer, Timothy Olyphant, Teresa Palmer, Dianna Agron, Kevin Durand, Callan McAuliffe</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/FR.jpg" title="Francia" border="0" align="middle"> <b><a class="ntext" href="/es/film688373.html">Nada que declarar</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Dany Boon </b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Benoît Poelvoorde, Dany Boon, Julie Bernard, Karin Viard, François Damiens, Bouli Lanners, Olivier Gourmet, Michel Vuillermoz</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film976893.html">Río</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Carlos Saldanha</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Animation</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film159254.html">HappyThankYouMorePlease</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Josh Radnor</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Kate Mara, Malin Akerman, Josh Radnor, Dana Barron, Richard Jenkins, Zoe Kazan, Tony Hale, Pablo Schreiber</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film675336.html">Furia ciega</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Patrick Lussier</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Nicolas Cage, Amber Heard, William Fichtner, Billy Burke, David Morse, Katy Mixon, Christa Campbell, Charlotte Ross</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film651017.html">Invasión a la Tierra</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Jonathan Liebesman</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Aaron Eckhart, Michelle Rodriguez, Bridget Moynahan, Michael Peña, Ne-Yo, Ramon Rodriguez, Taylor Handley, Cory Hardrict</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film857483.html">¿Para qué sirve un oso?</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Tom Fernández</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Javier Cámara, Gonzalo de Castro, Emma Suárez, Jesse Johnson, Geraldine Chaplin, Oona Chaplin, Sira García</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/DK.jpg" title="Dinamarca" border="0" align="middle"> <b><a class="ntext" href="/es/film680160.html">En un mundo mejor</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Susanne Bier</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Mikael Persbrandt, Trine Dyrholm, Ulrich Thomsen, William Jøhnk Nielsen, Markus Rygaard, Bodil Jørgensen, Toke Lars Bjarke, Camilla Gottlieb</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/CL.jpg" title="Chile" border="0" align="middle"> <b><a class="ntext" href="/es/film399948.html">La vida de los peces</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Matías Bize</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Santiago Cabrera, Blanca Lewin, Francisca Cárdenas, Pedro del Carril, Diego Fontecilla, Matías Jara, Luz Jiménez, Sebastián Layseca</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film645906.html">Sucker Punch</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Zack Snyder</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Emily Browning, Vanessa Hudgens, Abbie Cornish, Jena Malone, Jamie Chung, Carla Gugino, Jon Hamm, Scott Glenn</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film742596.html">Encontrarás dragones</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Roland Joffé</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Charlie Cox, Wes Bentley, Dougray Scott, Unax Ugalde, Olga Kurylenko, Pablo Lapadula, Golshifteh Farahani, Ana Torrent</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film275114.html">Piraña 3D</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Alexandre Aja</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Elisabeth Shue, Adam Scott, Ving Rhames, Richard Dreyfuss, Eli Roth, Jerry O'Connell, Christopher Lloyd, Ricardo Chavira</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film610594.html">Sin compromiso</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Ivan Reitman</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Natalie Portman, Ashton Kutcher, Cary Elwes, Kevin Kline, Greta Gerwig, Lake Bell, Olivia Thirlby, Ludacris</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film112844.html">Inside Job</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Charles Ferguson</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Documentary,  Barney Frank, Charles Morris, Daniel Alpert, Dominique Strauss Kahn, Glenn Hubbard, Eliot Spitzer, George Soros</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film294262.html">El rito</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Mikael Håfström (AKA Mikael Hafström)</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Anthony Hopkins, Alice Braga, Ciaran Hinds, Toby Jones, Colin O'Donoghue, Rutger Hauer</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film446540.html">Nunca me abandones</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Mark Romanek</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Carey Mulligan, Andrew Garfield, Keira Knightley, Charlotte Rampling, Sally Hawkins, Izzy Meikle-Small, Charlie Rowe, Ella Purnell</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/CA.jpg" title="Canadá" border="0" align="middle"> <b><a class="ntext" href="/es/film627079.html">El mundo según Barney</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Richard J. Lewis</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Paul Giamatti, Rosamund Pike, Dustin Hoffman, Scott Speedman, Minnie Driver, Bruce Greenwood, Rachelle Lefevre, Mark Addy</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film791922.html">Gnomeo y Julieta</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Kelly Asbury</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Animation</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/ES.jpg" title="España" border="0" align="middle"> <b><a class="ntext" href="/es/film151621.html">Torrente 4: Lethal Crisis (Crisis Letal)</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Santiago Segura</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Santiago Segura, Kiko Rivera, Tony Leblanc, Enrique Villén, Francisco, Yon González, Yolanda Ramos, Jimmy Roca</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/CA.jpg" title="Canadá" border="0" align="middle"> <b><a class="ntext" href="/es/film551964.html">Incendies</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Denis Villeneuve</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette, Rémy Girard, Abdelghafour Elaaziz, Allen Altman, Mohamed Majd, Nabil Sawalha</div></td></tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f0f3f6"><table width="100%" border="0" cellpadding="1" cellspacing="0">
+
+<tr><td valign="top">
+<img src="/imgs/countries/US.jpg" title="Estados Unidos" border="0" align="middle"> <b><a class="ntext" href="/es/film458406.html">Cisne negro</a></b></td></tr>
+<tr><td><span style="font-size: 10px; color:#666666"><b>Darren Aronofsky</b></span></td>	</tr>
+<tr><td><div style="font-size: 10px">Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder, Barbara Hershey, Christopher Gartin, Sebastian Stan</div></td></tr>
+</table>
+
+</td>
+    </tr>
+</table>
+    </td>
+
+    <td valign="top">
+      <table width="100%">
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film934732.html">
+         <img src="http://pics.filmaffinity.com/Agua_para_elefantes-934732-full.jpg" alt="Agua para elefantes" width="100" height="144" border="0"></a>
+       </td>
+
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film313449.html">
+         <img src="http://pics.filmaffinity.com/El_sicario_de_Dios-313449-full.jpg" alt="El sicario de Dios" width="100" height="144" border="0"></a>
+       </td>
+
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film620534.html">
+
+         <img src="http://pics.filmaffinity.com/Carta_blanca-620534-full.jpg" alt="Carta blanca" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film815141.html">
+
+         <img src="http://pics.filmaffinity.com/El_ultimo_exorcismo-815141-full.jpg" alt="El último exorcismo" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+
+     <tr>
+       <td align="center"><a href="/es/film641747.html">
+         <img src="http://pics.filmaffinity.com/No_lo_llames_amor_llamalo_X-641747-full.jpg" alt="No lo llames amor... llámalo X" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+
+     <tr>
+       <td align="center"><a href="/es/film665311.html">
+         <img src="http://pics.filmaffinity.com/Rompecabezas-665311-full.jpg" alt="Rompecabezas" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film397003.html">
+         <img src="http://pics.filmaffinity.com/El_padre_de_mis_hijos-397003-full.jpg" alt="El padre de mis hijos" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film358790.html">
+         <img src="http://pics.filmaffinity.com/Thor-358790-full.jpg" alt="Thor" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film296319.html">
+         <img src="http://pics.filmaffinity.com/The_Fast_Furious_5_A_todo_gas_5-296319-full.jpg" alt="The Fast &amp; Furious 5 (A todo gas 5)" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film653077.html">
+         <img src="http://pics.filmaffinity.com/The_Company_Men-653077-full.jpg" alt="The Company Men" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film331791.html">
+         <img src="http://pics.filmaffinity.com/No_tengas_miedo-331791-full.jpg" alt="No tengas miedo" width="100" height="144" border="0"></a>
+
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film960593.html">
+         <img src="http://pics.filmaffinity.com/Tokio_Blues_Norwegian_Wood-960593-full.jpg" alt="Tokio Blues (Norwegian Wood)" width="100" height="144" border="0"></a>
+
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+
+       <td align="center"><a href="/es/film638580.html">
+         <img src="http://pics.filmaffinity.com/Ano_bisiesto-638580-full.jpg" alt="Año bisiesto" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+
+       <td align="center"><a href="/es/film469884.html">
+         <img src="http://pics.filmaffinity.com/El_vuelo_del_tren-469884-full.jpg" alt="El vuelo del tren" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film219584.html">
+         <img src="http://pics.filmaffinity.com/Bebes-219584-full.jpg" alt="Bebés" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film109583.html">
+         <img src="http://pics.filmaffinity.com/La_marca_del_angel-109583-full.jpg" alt="La marca del ángel" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film383978.html">
+         <img src="http://pics.filmaffinity.com/El_viaje_de_Jane-383978-full.jpg" alt="El viaje de Jane" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film621094.html">
+         <img src="http://pics.filmaffinity.com/Vamos_a_hacer_dinero-621094-full.jpg" alt="Vamos a hacer dinero" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film612858.html">
+         <img src="http://pics.filmaffinity.com/Scream_4-612858-full.jpg" alt="Scream 4" width="100" height="144" border="0"></a>
+       </td>
+
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film442163.html">
+         <img src="http://pics.filmaffinity.com/Aguila_roja_La_pelicula-442163-full.jpg" alt="Águila roja. La película" width="100" height="144" border="0"></a>
+       </td>
+
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film362240.html">
+
+         <img src="http://pics.filmaffinity.com/Perdona_pero_quiero_casarme_contigo-362240-full.jpg" alt="Perdona pero quiero casarme contigo" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film197772.html">
+
+         <img src="http://pics.filmaffinity.com/Winnie_the_Pooh-197772-full.jpg" alt="Winnie the Pooh" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+
+     <tr>
+       <td align="center"><a href="/es/film695839.html">
+         <img src="http://pics.filmaffinity.com/El_amor_y_otras_cosas_imposibles-695839-full.jpg" alt="El amor y otras cosas imposibles" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+
+     <tr>
+       <td align="center"><a href="/es/film547177.html">
+         <img src="http://pics.filmaffinity.com/Country_Strong-547177-full.jpg" alt="Country Strong" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film226296.html">
+         <img src="http://pics.filmaffinity.com/No_mires_atras-226296-full.jpg" alt="No mires atrás" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film513986.html">
+         <img src="http://pics.filmaffinity.com/The_Symmetry_of_Love-513986-full.jpg" alt="The Symmetry of Love " width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film320617.html">
+         <img src="http://pics.filmaffinity.com/Escuchando_al_juez_Garzon-320617-full.jpg" alt="Escuchando al juez Garzón" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film332725.html">
+         <img src="http://pics.filmaffinity.com/Codigo_Fuente-332725-full.jpg" alt="Código Fuente" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film872624.html">
+         <img src="http://pics.filmaffinity.com/Caperucita_Roja_A_quien_tienes_miedo-872624-full.jpg" alt="Caperucita Roja (¿A quién tienes miedo?)" width="100" height="144" border="0"></a>
+
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film699201.html">
+         <img src="http://pics.filmaffinity.com/Carlos-699201-full.jpg" alt="Carlos" width="100" height="144" border="0"></a>
+
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+
+       <td align="center"><a href="/es/film739250.html">
+         <img src="http://pics.filmaffinity.com/Una_dulce_mentira-739250-full.jpg" alt="Una dulce mentira" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+
+       <td align="center"><a href="/es/film604878.html">
+         <img src="http://pics.filmaffinity.com/Hop-604878-full.jpg" alt="Hop" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film734689.html">
+         <img src="http://pics.filmaffinity.com/Justin_Bieber_Never_Say_Never-734689-full.jpg" alt="Justin Bieber: Never Say Never" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film176979.html">
+         <img src="http://pics.filmaffinity.com/Cartas_a_Dios-176979-full.jpg" alt="Cartas a Dios" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film323799.html">
+         <img src="http://pics.filmaffinity.com/La_legion_del_aguila-323799-full.jpg" alt="La legión del águila" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film628669.html">
+         <img src="http://pics.filmaffinity.com/Sin_limites-628669-full.jpg" alt="Sin límites" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film715316.html">
+         <img src="http://pics.filmaffinity.com/Soy_el_numero_cuatro-715316-full.jpg" alt="Soy el número cuatro" width="100" height="144" border="0"></a>
+       </td>
+
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film688373.html">
+         <img src="http://pics.filmaffinity.com/Nada_que_declarar-688373-full.jpg" alt="Nada que declarar" width="100" height="144" border="0"></a>
+       </td>
+
+     </tr>
+   </table>
+        </td>
+              </tr>
+        <tr>
+ <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film976893.html">
+
+         <img src="http://pics.filmaffinity.com/Rio-976893-full.jpg" alt="Río" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+     <td valign="top">
+   <table  width="100%">
+     <tr>
+       <td align="center"><a href="/es/film159254.html">
+
+         <img src="http://pics.filmaffinity.com/HappyThankYouMorePlease-159254-full.jpg" alt="HappyThankYouMorePlease" width="100" height="144" border="0"></a>
+       </td>
+     </tr>
+   </table>
+        </td>
+              </tr>
+      </table>
+    </td>
+  </tr>
+
+</table>
+<div style="margin-top:10px"></div>
+      </td>
+     <tr>
+    </table>
+    </td>
+     <td valign="top" align="right" width="140" bgcolor="#ffffff">
+<table id="rsban" width="140" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="right"><br/><script type="text/javascript"><!--
+google_ad_client = "ca-pub-9828150778409198";
+/* 120x600 creado dic 2010 */
+google_ad_slot = "0937605826";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+	</tr>
+</table>
+	
+     </td>
+  </tr>
+</table>
+<br>
+<table style="border-top: 1px solid #003366"  class="ot" border="0" cellpadding="2" cellspacing="2">
+  <tr>
+    <td align="center">
+
+    <!-- Codigo para añadir a favoritos -->
+        <a href="javascript:window.external.AddFavorite('http://www.filmaffinity.com','FilmAffinity')">
+        Añade FA a tus webs favoritas</a>
+       <!-- Fin del codigo -->
+    | <a href="http://www.facebook.com/FilmAffinity" target="_blank">FA en el Facebook</a>
+	| <a href="/es/recommendus.php">Recomienda FA a tus amigos/as</a> 
+	| <a href="/es/faq.php">Preguntas más frecuentes</a>
+
+    | <a href="/es/private.php" >Política de privacidad</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+    <span class="subtext">&copy; 2002-2010 Filmaffinity - Movieaffinity &nbsp; Todos los derechos reservados.</span>
+
+    </td>
+  </tr>
+</table>
+</body>
+</html>

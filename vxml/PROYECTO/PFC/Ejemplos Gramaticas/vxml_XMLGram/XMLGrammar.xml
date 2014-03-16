@@ -1,0 +1,30 @@
+<?xml version= "1.0"?> 
+<grammar xmlns="http://www.w3.org/2001/06/grammar" 
+          xml:lang="en-US" root = "MYRULE">
+
+  <rule id="MYRULE" scope="public"> 
+
+  <one-of>
+    <item>
+
+<!-- optional utterance prefixes go here -->
+<!--  <item repeat="0-1">(some utterance)</item> -->
+
+    <one-of> 
+      <item> gimli  <tag>          <![CDATA[  <F_1 "dwarves">  ]]>  </tag>  </item> 
+      <item> aragorn <tag>        <![CDATA[  <F_1 "men">  ]]>      </tag> </item> 
+      <item> legolas <tag>        <![CDATA[  <F_1 "elves">  ]]>    </tag> </item> 
+      <item> frodo <tag>  <![CDATA[  <F_1 "hobbits">  ]]>  </tag> </item> 
+      <item> rosie <tag>  <![CDATA[  <F_1 "cave trolls">  ]]>  </tag> </item> 
+
+    </one-of> 
+
+<!-- optional utterance suffixes go here -->
+      <item repeat="0-1"> baggins </item>
+      <item repeat="0-1"> o donnell </item>
+
+    </item>
+  </one-of>
+
+  </rule> 
+</grammar>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<vxml version = "2.1"> 
+
+  <meta name="maintainer" content="YOUREMAILADDRESS@HERE.com"/>
+
+
+ <form>
+   <field name="F_1">
+    <prompt>
+     who is the coolest character in the Lord Of The Rings saga? 
+    </prompt>
+    
+    <grammar src="XMLGrammar.xml" type="application/grammar-xml"/> 
+
+    <filled>
+     <prompt> 
+       you said 
+	<value expr="lastresult$.utterance"/> 
+
+      from the race of 
+	<value expr="F_1$.interpretation.F_1"/>
+ 
+       is the coolest character. I would have to agree.
+     </prompt>
+    </filled>
+   </field>
+  </form>
+</vxml>
