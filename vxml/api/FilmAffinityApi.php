@@ -1,14 +1,15 @@
 <?
-require_once 'simple_html_dom.php';
+require_once __DIR__ .'/simple_html_dom.php';
 
-var_dump(FilmAffinityApi::getInstance()->getFilm("/es/film249518.html"));
+//var_dump(FilmAffinityApi::getInstance()->getFilm("/es/film249518.html"));
 #var_dump(FilmAffinityApi::getInstance()->getCartelera());
 #var_dump(FilmAffinityApi::getInstance()->searchActor("santiago segura"));
 
-class FilmAffinityApiP
+class FilmAffinityApi
 {
     const BASE_URL = "http://www.filmaffinity.com/";
     const ACTOR_QUERY = "es/search.php?stype=cast&stext=";
+    const TITLE_QUERY = "es/search.php?stype=title&stext=";
     const DIRECTOR_QUERY = "es/search.php?stype=director&stext=";
     const CARTELERA_QUERY = "/es/cat_new_th_es.html";
     private static $instance;
@@ -46,6 +47,23 @@ class FilmAffinityApiP
     {
         $result = array();
         $query = self::DIRECTOR_QUERY . $this->escapeQuery($directorName);
+        $pageDom = $this->request($query);
+        $films = $pageDom->find('div[class=mc-title] a');
+        foreach ($films as $film) {
+
+            $result[$film->href] = $film->text();
+        }
+        return $result;
+    }
+
+    /**
+     * @param $title
+     * @return array
+     */
+    public function searchTitle($title)
+    {
+        $result = array();
+        $query = self::TITLE_QUERY . $this->escapeQuery($title);
         $pageDom = $this->request($query);
         $films = $pageDom->find('div[class=mc-title] a');
         foreach ($films as $film) {
