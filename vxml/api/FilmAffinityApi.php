@@ -1,9 +1,9 @@
 <?
 require_once __DIR__ .'/simple_html_dom.php';
 
-//var_dump(FilmAffinityApi::getInstance()->getFilm("/es/film249518.html"));
-#var_dump(FilmAffinityApi::getInstance()->getCartelera());
-#var_dump(FilmAffinityApi::getInstance()->searchActor("santiago segura"));
+//var_dump(FilmAffinityApi::getInstance()->getFilm("376816"));
+//var_dump(FilmAffinityApi::getInstance()->getCartelera());
+//var_dump(FilmAffinityApi::getInstance()->searchActor("santiago segura"));
 
 class FilmAffinityApi
 {
@@ -12,6 +12,7 @@ class FilmAffinityApi
     const TITLE_QUERY = "es/search.php?stype=title&stext=";
     const DIRECTOR_QUERY = "es/search.php?stype=director&stext=";
     const CARTELERA_QUERY = "/es/cat_new_th_es.html";
+    const FILM_QUERY = '/es/film%id%.html';
     private static $instance;
 
     public static function getInstance()
@@ -26,10 +27,11 @@ class FilmAffinityApi
      * @param $directorName
      * @return array
      */
-    public function getFilm($film)
+    public function getFilm($filmId)
     {
         $result = array();
-        $pageDom = $this->request($film);
+
+        $pageDom = $this->request(str_replace('%id%', $filmId, self::FILM_QUERY));
         $keysContent = $pageDom->find('dl[class=movie-info] dt');
         $content = $pageDom->find('dl[class=movie-info] dd');
 
@@ -51,7 +53,7 @@ class FilmAffinityApi
         $films = $pageDom->find('div[class=mc-title] a');
         foreach ($films as $film) {
 
-            $result[$film->href] = $film->text();
+            $result[$this->getFilmId($film->href)] = $film->text();
         }
         return $result;
     }
@@ -68,7 +70,7 @@ class FilmAffinityApi
         $films = $pageDom->find('div[class=mc-title] a');
         foreach ($films as $film) {
 
-            $result[$film->href] = $film->text();
+            $result[$this->getFilmId($film->href)] = $film->text();
         }
         return $result;
     }
@@ -85,13 +87,13 @@ class FilmAffinityApi
         $films = $pageDom->find('div[class=mc-title] a');
         foreach ($films as $film) {
 
-            $result[$film->href] = $film->text();
+            $result[$this->getFilmId($film->href)] = $film->text();
         }
         return $result;
     }
 
     private function escapeQuery($query) {
-        return preg_replace('/\s+/', '+', $query);
+        return urlencode($query);
     }
 
     /**
@@ -103,7 +105,7 @@ class FilmAffinityApi
         $pageDom = $this->request(self::CARTELERA_QUERY);
         $films = $pageDom->find('div[class=movie-card] h3 a');
         foreach ($films as $film) {
-            $result[$film->href] = $film->text();
+            $result[$this->getFilmId($film->href)] = $film->text();
         }
         return $result;
     }
@@ -120,6 +122,12 @@ class FilmAffinityApi
         $dom = New simple_html_dom();
         $dom->load($html);
         return $dom;
+    }
+
+    private function getFilmId($href)
+    {
+        preg_match('/\d+/', $href, $match);
+        return $match[0];
     }
 }
 

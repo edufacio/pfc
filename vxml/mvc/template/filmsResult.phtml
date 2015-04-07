@@ -1,0 +1,11 @@
+<html>
+<h1>Peliculas encontradas para la busqueda: </h1>
+<h2>Seleccione una opcion:</h2>
+
+<ul>
+    <?foreach ($data['films'] as $link) {?>
+        <li><a href=<?= $link->getHref()?>><?=$link->getText()?></a></li>
+    <?}?>
+</ul>
+
+</html>

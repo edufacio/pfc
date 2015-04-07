@@ -17,7 +17,35 @@ Class NavigationMap
                 self::POST_PARAMS => array(),
             ),
             "searchTitle" => array(
-                self::GET_PARAMS => array('title'),
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+            "searchActor" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+            "searchDirector" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+            "getCartelera" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+            "searchTitleForm" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array('query'),
+            ),
+            "searchActorForm" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array('query'),
+            ),
+            "searchDirectorForm" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array('query'),
+            ),
+            "getFilm" => array(
+                self::GET_PARAMS => array('filmId'),
                 self::POST_PARAMS => array(),
             ),
         ),

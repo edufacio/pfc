@@ -1,0 +1,11 @@
+<html>
+<h1><?=$data["title"]?></h1>
+<body>
+
+<form action=<?=$data['formLink']->getHref()?> method="post">
+    <?=$data["field"]?> <input type="text" name=<?=IndexFilmController::QUERY_PARAM?>><br>
+    <input type="submit">
+</form>
+
+</body>
+</html>

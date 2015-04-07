@@ -1,6 +1,8 @@
 <?php
+require_once __DIR__ . '/Link.php';
+require_once __DIR__ . "/../view/View.php";
 Abstract Class Controller {
-    const BASE_URL = "/index.php?";
+    const BASE_URL = "index.php?";
     private $navigation;
 
     function __construct()
@@ -10,22 +12,22 @@ Abstract Class Controller {
 
     abstract public function index($data);
 
-    public function render($template, $data) {
-       require_once __DIR__ . "/../template/" . $template;
-       ob_start();
-       include($template);//How to pass $param to it? It needs that $row to render blog entry!
-       $ret = ob_get_contents();
-       ob_end_clean();
-       return $ret;
-    }
-
-    public function getLink($controllerName, $action, $params) {
+    public function getLink($controllerName, $action, $params = array()) {
         $this->assertLinkIsValid($controllerName, $action, $params);
 
         $url = self::BASE_URL . $this->getUrlParam(NavigationMap::CONTROLLER_PARAM, $controllerName)
             . '&' . $this->getUrlParam(NavigationMap::ACTION_PARAM, $action) . $this->getUrlGetParams($params);
 
-        return $url;
+        return new Link($url);
+    }
+
+    /**
+     * @param $view
+     * @return View
+     */
+    protected function instantiateView($view) {
+        require_once __DIR__ . "/../view/" . $view . ".php";
+        return $view::createView();
     }
 
     private function assertLinkIsValid($controllerName, $action, $params) {
@@ -34,8 +36,6 @@ Abstract Class Controller {
                 throw new DomainException("$controllerName with $action and $paramName not configured in NavigationMap yet");
             }
         }
-
-
     }
 
     private function getUrlParam($paramName, $paramValue)

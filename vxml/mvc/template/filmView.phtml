@@ -1,0 +1,14 @@
+<html>
+<h1>Informacion de pelicula: </h1>
+<table>
+
+    <tbody>
+    <?foreach($data['filmInfo'] as $key => $value) { ?>
+        <tr>
+            <td><?=$key?></td>
+            <td><?=$value?></td>
+        </tr>
+    <?}?>
+    </tbody>
+</table>
+</html>
