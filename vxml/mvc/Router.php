@@ -1,6 +1,6 @@
 <?php
-require_once __DIR__ . "/controller/Controller.php";
-require_once __DIR__ . "/NavigationMap.php";
+require_once dirname(__FILE__) . "/controller/Controller.php";
+require_once dirname(__FILE__) . "/NavigationMap.php";
 
 Class Router
 {
@@ -12,7 +12,7 @@ Class Router
         $action = $navigationMap->getAction();
         $data = $navigationMap->getData($controllerName, $action);
         $controllerClass = $controllerName . "Controller";
-        require_once __DIR__ . "/controller/" . $controllerClass . ".php";
+        require_once dirname(__FILE__) . "/controller/" . $controllerClass . ".php";
         $controller = new $controllerClass();
         $controller->$action($data);
 

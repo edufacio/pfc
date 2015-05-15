@@ -1,6 +1,6 @@
 <?php
-require_once __DIR__ . '/Link.php';
-require_once __DIR__ . "/../view/View.php";
+require_once dirname(__FILE__) . '/Link.php';
+require_once dirname(__FILE__) . "/../view/View.php";
 Abstract Class Controller {
     const BASE_URL = "index.php?";
     private $navigation;
@@ -26,8 +26,8 @@ Abstract Class Controller {
      * @return View
      */
     protected function instantiateView($view) {
-        require_once __DIR__ . "/../view/" . $view . ".php";
-        return $view::createView();
+        require_once dirname(__FILE__) . "/../view/" . $view . ".php";
+        return new $view();
     }
 
     private function assertLinkIsValid($controllerName, $action, $params) {

@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . "/mvc/Router.php";
+require_once "mvc/Router.php";
 
 $router = new Router();
 $router->request();

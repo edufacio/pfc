@@ -1,5 +1,5 @@
 <?
-require_once __DIR__ .'/simple_html_dom.php';
+require_once dirname(__FILE__) .'/simple_html_dom.php';
 
 //var_dump(FilmAffinityApi::getInstance()->getFilm("376816"));
 //var_dump(FilmAffinityApi::getInstance()->getCartelera());

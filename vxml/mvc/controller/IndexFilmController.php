@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../api/FilmAffinityApi.php';
+require_once dirname(__FILE__) . '/../../api/FilmAffinityApi.php';
 Class IndexFilmController extends Controller {
     const CONTROLLER_NAME = 'IndexFilm';
     const QUERY_PARAM = 'query';
