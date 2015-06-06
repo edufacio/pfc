@@ -1,0 +1,52 @@
+<?='<?xml version="1.0" encoding="UTF-8"?>'?>
+<vxml version="2.1" xml:lang="es-ES">
+    <form id="form">
+        <field name="formOption">
+            <prompt>
+                <?= $viewData->getPrompt(); ?>
+                <? if ($viewData->existsPreviousPageLink()) { ?>
+                    <?= $viewData->getPreviousPagePrompt(); ?>
+                <? } ?>
+
+                <? if ($viewData->existsMainMenuLink()) { ?>
+                    <?= $viewData->getMainMenuPrompt(); ?>
+                <? } ?>
+            </prompt>
+
+            <grammar type="text/gsl">
+
+                <?= $viewData->getGrammarOptions(); ?>
+            </grammar>
+
+            <noinput>
+                Lo siento, no he entendido lo que ha dicho. Por favor intentelo de nuevo.
+                <reprompt/>
+            </noinput>
+
+            <nomatch>
+                Lo siento, no he entendido lo que ha dicho. Por favor intentelo de nuevo.
+                <reprompt/>
+            </nomatch>
+
+        </field>
+
+        <filled namelist="menuOption">
+            <?$options = $viewData->getOptions();
+            reset($options);
+            $firstOptionName = key($options);
+            $firstOptionLink = array_shift($options)
+            ?>
+            <if cond="menuOption == '<?= $firstOptionName ?>'">`
+                <submit next="<?= $firstOptionLink->getHref() ?>"/>
+                <? foreach ($options as $option => $link) { ?>
+                    <elseif cond="menuOption == '<?= $option ?>'"/>
+                    <submit next="<?=$link->getHref() ?>" />
+                <? } ?>
+                <? if ($viewData->existsDefaultOption()) { ?>
+                    <else/>
+                    <submit next="<? $viewData->getDefaultOption()->getHref() ?>"/>
+                <? } ?>
+            </if>
+        </filled>
+    </form>
+</vxml>

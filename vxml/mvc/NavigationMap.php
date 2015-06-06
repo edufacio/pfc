@@ -3,14 +3,15 @@ Class NavigationMap
 {
     const GET_PARAMS = 'getParams';
     const POST_PARAMS = 'postParams';
-    const DEFAULT_CONTROLLER = 'IndexFilm';
+    const DEFAULT_CONTROLLER = 'IndexVxmlFilm';
     const DEFAULT_ACTION = 'index';
     const CONTROLLER_PARAM = 'c';
     const ACTION_PARAM = 'a';
+    const URI = 'REQUEST_URI';
+	const DEFAULT_VALUE = 'default value';
 
 
-
-    private static $CONFIG = array(
+	private static $CONFIG = array(
         "IndexFilm" => array(
             "index" => array(
                 self::GET_PARAMS => array(),
@@ -29,8 +30,9 @@ Class NavigationMap
                 self::POST_PARAMS => array(),
             ),
             "getCartelera" => array(
-                self::GET_PARAMS => array(),
+                self::GET_PARAMS => array('page'),
                 self::POST_PARAMS => array(),
+	            self::DEFAULT_VALUE => array('page' => 0),
             ),
             "searchTitleForm" => array(
                 self::GET_PARAMS => array(),
@@ -45,9 +47,52 @@ Class NavigationMap
                 self::POST_PARAMS => array('query'),
             ),
             "getFilm" => array(
-                self::GET_PARAMS => array('filmId'),
+                self::GET_PARAMS => array('filmId', 'breadCrumb'),
                 self::POST_PARAMS => array(),
             ),
+        ),
+        "IndexVxmlFilm" => array(
+            "index" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+            "searchTitle" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+            "searchActor" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+            "searchDirector" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array(),
+            ),
+	        "getCartelera" => array(
+		        self::GET_PARAMS => array('page'),
+		        self::POST_PARAMS => array(),
+		        self::DEFAULT_VALUE => array('page' => 0),
+            ),
+            "searchTitleForm" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array('query'),
+            ),
+            "searchActorForm" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array('query'),
+            ),
+            "searchDirectorForm" => array(
+                self::GET_PARAMS => array(),
+                self::POST_PARAMS => array('query'),
+            ),
+            "getFilm" => array(
+                self::GET_PARAMS => array('filmId', 'breadCrumb'),
+                self::POST_PARAMS => array(),
+            ),
+	        "getFilmDetailed" => array(
+		        self::GET_PARAMS => array('filmId', 'breadCrumb'),
+		        self::POST_PARAMS => array(),
+	        ),
         ),
     );
 
@@ -96,10 +141,16 @@ Class NavigationMap
     public function getData($controllerName, $action)
     {
         $data = array();
+
+        $defaultParams = isset(self::$CONFIG[$controllerName][$action][self::GET_PARAMS]) ?
+	        self::$CONFIG[$controllerName][$action][self::GET_PARAMS] : array();
         $validParams = self::$CONFIG[$controllerName][$action][self::GET_PARAMS];
+
         foreach ($validParams as $paramName) {
             if (isset($_GET[$paramName])) {
                 $data[$paramName] = $_GET[$paramName];
+            } elseif($defaultParams[$paramName]) {
+	            $data[$paramName] = $defaultParams[$paramName];
             }
         }
 
@@ -107,6 +158,8 @@ Class NavigationMap
         foreach ($validParams as $paramName) {
             if (isset($_POST[$paramName])) {
                 $data[$paramName] = $_POST[$paramName];
+            } elseif($defaultParams[$paramName]) {
+	            $data[$paramName] = $defaultParams[$paramName];;
             }
         }
 

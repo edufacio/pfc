@@ -1,6 +1,4 @@
 <?php
-require_once dirname(__FILE__) . "/controller/Controller.php";
-require_once dirname(__FILE__) . "/NavigationMap.php";
 
 Class Router
 {
@@ -12,10 +10,9 @@ Class Router
         $action = $navigationMap->getAction();
         $data = $navigationMap->getData($controllerName, $action);
         $controllerClass = $controllerName . "Controller";
-        require_once dirname(__FILE__) . "/controller/" . $controllerClass . ".php";
         $controller = new $controllerClass();
         $controller->$action($data);
-
+       return;
 
         foreach (array('server' => $_SERVER, 'get' => $_GET, 'post' => $_POST, 'req' => $_REQUEST) as $i => $info) {
             echo "<ul> $i";

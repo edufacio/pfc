@@ -1,5 +1,4 @@
 <?php
-require_once dirname(__FILE__) . '/../../api/FilmAffinityApi.php';
 Class IndexFilmController extends Controller {
     const CONTROLLER_NAME = 'IndexFilm';
     const QUERY_PARAM = 'query';
@@ -28,7 +27,7 @@ Class IndexFilmController extends Controller {
 
     public function getCarteleraLink($data)
     {
-        $results = FilmAffinityApi::getInstance()->getCartelera();
+        $results = FilmAffinityApi::getInstance()->getCartelera(1,1);
         $data["films"] = $this->getFilmsLinks($results);
         $this->instantiateView('FilmsResultView')->prepare($data);
     }

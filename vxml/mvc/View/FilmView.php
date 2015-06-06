@@ -1,8 +1,8 @@
 <?php
 class FilmView extends View
 {
-    public function prepare($data)
+    public function render($data)
     {
-        $this->render("filmView.phtml", $data);
+        $this->renderOnTemplate($data, "filmView.phtml");
     }
 }

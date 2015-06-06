@@ -1,8 +1,7 @@
 <?php
-require_once dirname(__FILE__) . '/Link.php';
-require_once dirname(__FILE__) . "/../view/View.php";
 Abstract Class Controller {
     const BASE_URL = "index.php?";
+
     private $navigation;
 
     function __construct()
@@ -13,12 +12,12 @@ Abstract Class Controller {
     abstract public function index($data);
 
     public function getLink($controllerName, $action, $params = array()) {
-        $this->assertLinkIsValid($controllerName, $action, $params);
+        $validParams = $this->assertLinkIsValid($controllerName, $action, $params);
 
         $url = self::BASE_URL . $this->getUrlParam(NavigationMap::CONTROLLER_PARAM, $controllerName)
-            . '&' . $this->getUrlParam(NavigationMap::ACTION_PARAM, $action) . $this->getUrlGetParams($params);
+            . '&' . $this->getUrlParam(NavigationMap::ACTION_PARAM, $action) . $this->getUrlGetParams($validParams);
 
-        return new Link($url);
+        return Link::createFromHref($url);
     }
 
     /**
@@ -26,16 +25,22 @@ Abstract Class Controller {
      * @return View
      */
     protected function instantiateView($view) {
-        require_once dirname(__FILE__) . "/../view/" . $view . ".php";
         return new $view();
     }
 
     private function assertLinkIsValid($controllerName, $action, $params) {
+	    if (!$this->navigation->isValidAction($controllerName, $action)) {
+		    throw new DomainException("$controllerName with $action is not configured in NavigationMap yet");
+	    }
+
+	    $validParams = array();
         foreach ($params as $paramName => $paramValue) {
-            if (!$this->navigation->isValidGetParam($controllerName, $action, $paramName)) {
-                throw new DomainException("$controllerName with $action and $paramName not configured in NavigationMap yet");
-            }
+	        if ($this->navigation->isValidAction($controllerName, $action, $paramName)) {
+		        $validParams[$paramName] = $paramValue;
+	        }
         }
+
+	    return $validParams;
     }
 
     private function getUrlParam($paramName, $paramValue)
@@ -51,5 +56,4 @@ Abstract Class Controller {
         }
         return $url;
     }
-
 }

@@ -1,9 +1,9 @@
 <html>
-<h1><?=$data["title"]?></h1>
+<h1><?=$viewData["title"]?></h1>
 <body>
 
-<form action=<?=$data['formLink']->getHref()?> method="post">
-    <?=$data["field"]?> <input type="text" name=<?=IndexFilmController::QUERY_PARAM?>><br>
+<form action=<?=$viewData['formLink']->getHref()?> method="post">
+    <?=$viewData["field"]?> <input type="text" name=<?=IndexFilmController::QUERY_PARAM?>><br>
     <input type="submit">
 </form>
 

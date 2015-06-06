@@ -1,11 +1,9 @@
 <?
-require_once 'simple_html_dom.php';
-
-var_dump(FilmAffinityApi::getInstance()->getFilm("/es/film249518.html"));
+#var_dump(FilmAffinityApi::getInstance()->getFilm("/es/film249518.html"));
 #var_dump(FilmAffinityApi::getInstance()->getCartelera());
 #var_dump(FilmAffinityApi::getInstance()->searchActor("santiago segura"));
 
-class FilmAffinityApiP
+class FilmAffinityApiFake
 {
     const BASE_URL = "http://www.filmaffinity.com/";
     const ACTOR_QUERY = "es/search.php?stype=cast&stext=";

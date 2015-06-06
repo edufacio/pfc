@@ -2,12 +2,19 @@
 
 class Link {
     private $href;
-    private $text;
 
-    function __construct($href)
+    private function __construct($href)
     {
         $this->href = $href;
     }
+
+	public static function createFromEncondedHref($encodedHref) {
+		return new Link(urldecode($encodedHref));
+	}
+
+	public static function createFromHref($href) {
+		return new Link($href);
+	}
 
     /**
      * @param mixed $href
@@ -25,22 +32,16 @@ class Link {
         return $this->href;
     }
 
-    /**
-     * @param mixed $text
-     */
-    public function setText($text)
-    {
-        $this->text = $text;
-    }
+	/**
+	 * @return mixed
+	 */
+	public function getHrefForRender()
+	{
+		return htmlspecialchars($this->href);
+	}
 
-    /**
-     * @return mixed
-     */
-    public function getText()
-    {
-        return $this->text;
-    }
-
-
-
+	public function getHrefEncoded()
+	{
+		return urlencode($this->href);
+	}
 }

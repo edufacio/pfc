@@ -3,7 +3,7 @@
 <h2>Seleccione una opcion:</h2>
 
 <ul>
-    <?foreach ($data['films'] as $link) {?>
+    <?foreach ($viewData['films'] as $link) {?>
         <li><a href=<?= $link->getHref()?>><?=$link->getText()?></a></li>
     <?}?>
 </ul>
